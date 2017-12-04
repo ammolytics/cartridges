@@ -10,9 +10,10 @@ Cartridges have a **lot** of variation, so accuration and maintainable
 categorization can be a major obstacle. For the sake of simplicity, we use the
 following as top-level categories:
 
-* Handgun
+* Pistol
 * Rifle
 * Rimfire
+* Shotshell
 
 They aren't perfect, but most cartridges should be immediately recognizable as
 one of these. We've gotta start somewhere.
@@ -42,4 +43,8 @@ don't break userspace.
 ```
 
 
+# References
 
+* [CIP](http://www.cip-bobp.org/)
+* [NATO STANAG](http://standards.globalspec.com/)
+* [SAAMI](http://www.saami.org/)
