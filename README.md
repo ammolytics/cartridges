@@ -58,6 +58,18 @@ Cartridges are often defined in both the Metric and Imperial units of measure. I
 
 The filename should be URL-safe and human readable. Underscores and hyphens are permitted, but the latter should only be used in cases where they exist in the official cartridge name.
 
+The following Javascript function can be used as a guideline, and to convert from the official cartridge name to an acceptable URL-safe version.
+
+```
+function urlsafe(str) {
+  return str
+    .replace(/["+&.()]/g, '')
+    .replace(/\s/g, '_')
+    .replace('__', '_')
+    .replace('_-_', '-');
+}
+```
+
 
 # References
 
