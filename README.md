@@ -2,6 +2,12 @@
 
 A community-maintained dataset of ammunition cartridge information for use by developers, engineers, data scientists, and anyone who might find it useful.
 
+# Status
+
+This project is a **work-in-progress**. To date, only the names of SAAMI cartridges are listed in the dataset.
+
+**Contributions are very welcome, and encouraged!**
+
 
 # Installation
 
