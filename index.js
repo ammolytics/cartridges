@@ -1,11 +1,41 @@
-exports.pistol = {};
-exports.rifle = {};
-exports.rimfire = {};
-exports.shotshell = {};
+_cache = {};
 
-exports.names = require('./cartridges.json');
 
-exports.pistol.saami = require('./pistol/saami.json');
-exports.rifle.saami = require('./rifle/saami.json');
-exports.rimfire.saami = require('./rimfire/saami.json');
-exports.shotshell.saami = require('./shotshell/saami.json');
+function _cache_get(key) {
+  if (_cache[key] === undefined) {
+    _cache[key] = require(key);
+  }
+  return _cache[key];
+}
+
+
+module.exports = {
+
+  get names() {
+    return _cache_get('./cartridges.json');
+  },
+
+  pistol: {
+    get saami() {
+      return _cache_get('./pistol/saami.json');
+    }
+  },
+
+  rifle: {
+    get saami() {
+      return _cache_get('./rifle/saami.json');
+    }
+  },
+
+  rimfire: {
+    get saami() {
+      return _cache_get('./rimfire/saami.json');
+    }
+  },
+
+  shotshell: {
+    get saami() {
+      return _cache_get('./shotshell/saami.json');
+    }
+  }
+};
