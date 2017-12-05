@@ -3,7 +3,39 @@
 A community-maintained dataset of ammunition cartridge information for use by developers, engineers, data scientists, and anyone who might find it useful.
 
 
+# Installation
+
+## NodeJS
+
+```
+npm install cartridges
+```
+
+## Python
+
+**Coming soon**
+
+
+# Usage
+
+## NodeJS
+
+```
+const cartridges = require('cartridges');
+
+console.log('Rimfire cartridge names:', cartridges.names.rimfire);
+console.log('Cartridge details:', cartridges.rimfire.saami['22 Long']);
+```
+
+## Python
+
+**Coming soon**
+
+
+# Overview
+
 ## Categories
+
 
 Cartridges have a **lot** of variation, which presents some challenges for accurate and maintainable categorization. For the sake of simplicity, we use the following as top-level categories:
 

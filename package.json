@@ -1,10 +1,10 @@
 {
-  "name": "cartridges-data",
-  "version": "0.0.1",
-  "description": "Raw dataset of ammunition cartriges.",
+  "name": "cartridges",
+  "version": "1.0.0",
+  "description": "Open source dataset of all known ammunition cartridges.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/node/all.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/ammolytics/cartridges/issues"
   },
-  "homepage": "https://gitlab.com/ammolytics/cartridges#README"
+  "homepage": "https://gitlab.com/ammolytics/cartridges#README",
+  "devDependencies": {
+    "test": "^0.6.0"
+  }
 }
