@@ -1,0 +1,19 @@
+{
+  "name": "cartridges-data",
+  "version": "0.0.1",
+  "description": "Raw dataset of ammunition cartriges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ammolytics/cartridges.git"
+  },
+  "author": "Eric Higgins <erichiggins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/ammolytics/cartridges/issues"
+  },
+  "homepage": "https://gitlab.com/ammolytics/cartridges#README"
+}
