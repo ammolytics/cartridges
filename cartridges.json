@@ -181,19 +181,19 @@
     "22 Winchester Rimfire": "22_Winchester_Rimfire"
   },
   "shotshell": {
-    "10 Gauge 3½\" Smooth bore": "10_Gauge_3½_Smooth_bore",
-    "12 Gauge 2¾\" Rifled": "12_Gauge_2¾_Rifled",
-    "12 Gauge 2¾\" Smooth bore": "12_Gauge_2¾_Smooth_bore",
+    "10 Gauge 3 1/2\" Smooth bore": "10_Gauge_35_Smooth_bore",
+    "12 Gauge 2 3/4\" Rifled": "12_Gauge_275_Rifled",
+    "12 Gauge 2 3/4\" Smooth bore": "12_Gauge_275_Smooth_bore",
     "12 Gauge 3\" Rifled": "12_Gauge_3_Rifled",
     "12 Gauge 3\" Smooth bore": "12_Gauge_3_Smooth_bore",
-    "12 Gauge 3½\" Smooth bore": "12_Gauge_3½_Smooth_bore",
-    "16 Gauge 2¾\" Smooth bore": "16_Gauge_2¾_Smooth_bore",
-    "20 Gauge 2¾\" Rifled": "20_Gauge_2¾_Rifled",
-    "20 Gauge 2¾\" Smooth bore": "20_Gauge_2¾_Smooth_bore",
+    "12 Gauge 3 1/2\" Smooth bore": "12_Gauge_35_Smooth_bore",
+    "16 Gauge 2 3/4\" Smooth bore": "16_Gauge_275_Smooth_bore",
+    "20 Gauge 2 3/4\" Rifled": "20_Gauge_275_Rifled",
+    "20 Gauge 2 3/4\" Smooth bore": "20_Gauge_275_Smooth_bore",
     "20 Gauge 3\" Rifled": "20_Gauge_3_Rifled",
     "20 Gauge 3\" Smooth bore": "20_Gauge_3_Smooth_bore",
-    "28 Gauge 2¾\" Smooth bore": "28_Gauge_2¾_Smooth_bore",
-    "410 Bore 2½\" Smooth bore": "410_Bore_2½_Smooth_bore",
+    "28 Gauge 2 3/4\" Smooth bore": "28_Gauge_275_Smooth_bore",
+    "410 Bore 2 1/2\" Smooth bore": "410_Bore_25_Smooth_bore",
     "410 Bore 3\" Smooth bore": "410_Bore_3_Smooth_bore"
   }
 }
