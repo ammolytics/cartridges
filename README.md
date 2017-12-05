@@ -17,7 +17,7 @@ They aren't perfect, but most cartridges should be immediately recognizable as o
 
 ## Structure
 
-For each category above, there is a section within the top-level `cartridges.json` file listing cartridge names, as well as a directory containing separate JSON files for each cartridge. These separate JSON files will contain relevant information about the cartridge, according to the format below.
+For each category above, there is a section within the top-level `cartridges.json` file listing cartridge names, as well as a directory containing separate JSON files for cartridges defined by each standardization body (e.g. `saami.json`). These separate JSON files will contain relevant information about the cartridges, according to the format below.
 
 
 ## Format
@@ -29,7 +29,7 @@ The following template should be used when adding a cartridge to the dataset. Th
 
 ### Units of measure
 
-Cartridges are often defined in both the Metric and Imperial units of measure. In order to provide maximum flexibility, both units must be provided in the specification file.
+Cartridges are often defined in both the Metric and Imperial units of measure. In order to provide maximum flexibility, **both units must be provided** in the specification file.
 
 ```
 {
@@ -50,23 +50,6 @@ Cartridges are often defined in both the Metric and Imperial units of measure. I
   "references": [
     "<urls to the sources of the information provided here>"
   ]
-}
-```
-
-
-### Filename
-
-The filename should be URL-safe and human readable. Underscores and hyphens are permitted, but the latter should only be used in cases where they exist in the official cartridge name.
-
-The following Javascript function can be used as a guideline, and to convert from the official cartridge name to an acceptable URL-safe version.
-
-```
-function urlsafe(str) {
-  return str
-    .replace(/["+&.()]/g, '')
-    .replace(/\s/g, '_')
-    .replace('__', '_')
-    .replace('_-_', '-');
 }
 ```
 
