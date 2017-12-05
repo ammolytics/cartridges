@@ -1,0 +1,22 @@
+{
+  "name": "cartridges",
+  "version": "1.0.0",
+  "description": "Open source dataset of all known ammunition cartridges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/node/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ammolytics/cartridges.git"
+  },
+  "author": "Eric Higgins <erichiggins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/ammolytics/cartridges/issues"
+  },
+  "homepage": "https://gitlab.com/ammolytics/cartridges#README",
+  "devDependencies": {
+    "test": "^0.6.0"
+  }
+}
