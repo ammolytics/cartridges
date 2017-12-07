@@ -1,3 +1,5 @@
+[![pipeline status](https://gitlab.com/ammolytics/cartridges/badges/develop/pipeline.svg)](https://gitlab.com/ammolytics/cartridges/commits/develop)
+
 # Open Source Cartridge Dataset
 
 A community-maintained dataset of ammunition cartridge information for use by developers, engineers, data scientists, and anyone who might find it useful.
