@@ -1,77 +1,66 @@
-_cache = {};
-
-
-function _cache_get(key) {
-  if (_cache[key] === undefined) {
-    _cache[key] = require(key);
-  }
-  return _cache[key];
-}
-
-
 module.exports = {
 
   get names() {
-    return _cache_get('./data/cartridges.json');
+    return require('./data/cartridges.json');
   },
 
   pistol: {
     get cip() {
-      return _cache_get('./data/pistol/cip.json');
+      return require('./data/pistol/cip.json');
     },
     get nato() {
-      return _cache_get('./data/pistol/nato.json');
+      return require('./data/pistol/nato.json');
     },
     get proprietary() {
-      return _cache_get('./data/pistol/proprietary.json');
+      return require('./data/pistol/proprietary.json');
     },
     get saami() {
-      return _cache_get('./data/pistol/saami.json');
+      return require('./data/pistol/saami.json');
     }
   },
 
   rifle: {
     get cip() {
-      return _cache_get('./data/rifle/cip.json');
+      return require('./data/rifle/cip.json');
     },
     get nato() {
-      return _cache_get('./data/rifle/nato.json');
+      return require('./data/rifle/nato.json');
     },
     get proprietary() {
-      return _cache_get('./data/rifle/proprietary.json');
+      return require('./data/rifle/proprietary.json');
     },
     get saami() {
-      return _cache_get('./data/rifle/saami.json');
+      return require('./data/rifle/saami.json');
     }
   },
 
   rimfire: {
     get cip() {
-      return _cache_get('./data/rimfire/cip.json');
+      return require('./data/rimfire/cip.json');
     },
     get nato() {
-      return _cache_get('./data/rimfire/nato.json');
+      return require('./data/rimfire/nato.json');
     },
     get proprietary() {
-      return _cache_get('./data/rimfire/proprietary.json');
+      return require('./data/rimfire/proprietary.json');
     },
     get saami() {
-      return _cache_get('./data/rimfire/saami.json');
+      return require('./data/rimfire/saami.json');
     }
   },
 
   shotshell: {
     get cip() {
-      return _cache_get('./data/shotshell/cip.json');
+      return require('./data/shotshell/cip.json');
     },
     get nato() {
-      return _cache_get('./data/shotshell/nato.json');
+      return require('./data/shotshell/nato.json');
     },
     get proprietary() {
-      return _cache_get('./data/shotshell/proprietary.json');
+      return require('./data/shotshell/proprietary.json');
     },
     get saami() {
-      return _cache_get('./data/shotshell/saami.json');
+      return require('./data/shotshell/saami.json');
     }
   }
 };

@@ -18,4 +18,14 @@ exports['test top-level structure'] = function() {
 }
 
 
+exports['test length of names'] = function() {
+  var cartridges = require('../../index.js');
+
+  assert(cartridges.names.pistol.length !== 0);
+  assert(cartridges.names.rifle.length !== 0);
+  assert(cartridges.names.rimfire.length !== 0);
+  assert(cartridges.names.shotshell.length !== 0);
+}
+
+
 if (module == require.main) require('test').run(exports)
