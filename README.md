@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ammolytics/cartridges.svg?branch=develop)](https://travis-ci.org/ammolytics/cartridges)
+
 # Open Source Cartridge Dataset
 
 A community-maintained dataset of ammunition cartridge information for use by developers, engineers, data scientists, and anyone who might find it useful.
