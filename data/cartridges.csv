@@ -48,9 +48,11 @@ name,category,standard
 17 Hornet,rifle,SAAMI
 17 Remington Fireball,rifle,SAAMI
 17 Remington,rifle,SAAMI
+20 Nosler,rifle,SAAMI
 204 Ruger,rifle,SAAMI
 218 Bee,rifle,SAAMI
 22 Hornet,rifle,SAAMI
+22 Nosler,rifle,SAAMI
 22-250 Remington,rifle,SAAMI
 220 Swift,rifle,SAAMI
 221 Remington Fireball,rifle,SAAMI
@@ -58,7 +60,9 @@ name,category,standard
 222 Remington,rifle,SAAMI
 223 Remington,rifle,SAAMI
 223 Winchester Super Short Magnum,rifle,SAAMI
+224 Valkyrie,rifle,SAAMI
 225 Winchester,rifle,SAAMI
+24 Nosler,rifle,SAAMI
 243 Winchester Super Short Magnum,rifle,SAAMI
 243 Winchester,rifle,SAAMI
 25 Winchester Super Short Magnum,rifle,SAAMI
@@ -143,12 +147,13 @@ name,category,standard
 458 Winchester Magnum,rifle,SAAMI
 470 Nitro Express,rifle,SAAMI
 475 Turnbull,rifle,SAAMI
-"500 Nitro Express 3"",rifle""",SAAMI,
+"500 Nitro Express 3""",rifle,SAAMI
 6 x 45mm,rifle,SAAMI
 6.5 Creedmoor,rifle,SAAMI
 6.5 Grendel,rifle,SAAMI
 6.5 x 55 Swedish,rifle,SAAMI
 6.8mm Remington SPC,rifle,SAAMI
+6mm Creedmoor,rifle,SAAMI
 6mm Remington,rifle,SAAMI
 7 x 64 Brenneke,rifle,SAAMI
 7-30 Waters,rifle,SAAMI
