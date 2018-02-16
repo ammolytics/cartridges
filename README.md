@@ -1,4 +1,4 @@
-[![pipeline status](https://gitlab.com/ammolytics/cartridges/badges/develop/pipeline.svg)](https://gitlab.com/ammolytics/cartridges/commits/develop)
+[![Build Status](https://travis-ci.org/ammolytics/cartridges.svg?branch=develop)](https://travis-ci.org/ammolytics/cartridges)
 
 # Open Source Cartridge Dataset
 
@@ -13,7 +13,7 @@ This project is a **work-in-progress**. To date, only the names of SAAMI cartrid
 
 # Installation
 
-## NodeJS
+## [NodeJS](https://www.npmjs.com/package/cartridges)
 
 ```
 npm install cartridges

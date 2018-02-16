@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/ammolytics/cartridges.git"
+    "url": "https://github.com/ammolytics/cartridges.git"
   },
   "author": "Eric Higgins <erichiggins@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/ammolytics/cartridges/issues"
+    "url": "https://github.com/ammolytics/cartridges/issues"
   },
-  "homepage": "https://gitlab.com/ammolytics/cartridges#README",
+  "homepage": "https://github.com/ammolytics/cartridges#README",
   "devDependencies": {
     "test": "^0.6.0"
   }
