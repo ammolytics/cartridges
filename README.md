@@ -1,5 +1,3 @@
-[![pipeline status](https://gitlab.com/ammolytics/cartridges/badges/develop/pipeline.svg)](https://gitlab.com/ammolytics/cartridges/commits/develop)
-
 # Open Source Cartridge Dataset
 
 A community-maintained dataset of ammunition cartridge information for use by developers, engineers, data scientists, and anyone who might find it useful.
@@ -13,7 +11,7 @@ This project is a **work-in-progress**. To date, only the names of SAAMI cartrid
 
 # Installation
 
-## NodeJS
+## [NodeJS](https://www.npmjs.com/package/cartridges)
 
 ```
 npm install cartridges
