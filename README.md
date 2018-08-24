@@ -6,7 +6,7 @@ A community-maintained dataset of ammunition cartridge information for use by de
 
 # Status
 
-This project is a **work-in-progress**. To date, only the names of SAAMI cartridges are listed in the dataset.
+This project is a **work-in-progress**. To date, only the names of SAAMI and C.I.P cartridges are listed in the dataset.
 
 **Contributions are very welcome, and encouraged!**
 
