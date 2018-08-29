@@ -19,32 +19,32 @@
 ## CIP
 
 ```
-4 mm Randz. court
-4 mm Randz. long
-5 mm Rem.Mag.
-5.6 mm (22) Flobert à balle
-5.6 mm Flobert à plombs SC
-5.6 mm Flobert à plombs DC
-6 mm Flobert à balle
-6 mm Flobert à balle DC
-6 mm ME Flobert court
-9 mm Flobert à balle
-9 mm Flobert à plombs Carton
-9 mm Flobert à plombs Metal
-22 BB Cap
-22 CB Cap
+4mm Randz. court
+4mm Randz. long
+5mm Remington Magnum
+5.6mm (22) Flobert à balle
+5.6mm Flobert à plombs SC
+5.6mm Flobert à plombs DC
+6mm Flobert à balle
+6mm Flobert à balle DC
+6mm ME Flobert court
+9mm Flobert à balle
+9mm Flobert à plombs Carton
+9mm Flobert à plombs Metal
+22 Bulleted Breech Cap
+22 Conical Ball Cap
 22 Long
 22 Extra Long
 22 Extra L.R.
 22 Long Shot
 22 Long Rifle Shot Claybirding
-22 Rem. Auto
-22 Win. Auto
-22 Win. R.F. et 22 Rem.Spl.
-17 HMR
+22 Remington Automatic
+22 Winchester Automatic
+22 Winchester Magnum Rimfire et 22 Remington Special
+17 Hornady Magnum Rimfire
 17 Mach 2
-17 WSM
+17 Winchester Super Magnum
 22 Long Rifle
 22 Short
-22 Win. Mag. R.F.
+22 Winchester Magnum Rimfire
 ```
