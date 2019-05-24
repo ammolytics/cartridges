@@ -1,30 +1,338 @@
 {
-    "4mm Randz. court": {},
-    "4mm Randz. long": {},
-    "5mm Remington Magnum": {},
-    "5.6mm (22) Flobert à balle": {},
-    "5.6mm Flobert à plombs SC": {},
-    "5.6mm Flobert à plombs DC": {},
-    "6mm Flobert à balle": {},
-    "6mm Flobert à balle DC": {},
-    "6mm ME Flobert court": {},
-    "9mm Flobert à balle": {},
-    "9mm Flobert à plombs Carton": {},
-    "9mm Flobert à plombs Metal": {},
-    "22 Bulleted Breech Cap": {},
-    "22 Conical Ball Cap": {},
-    "22 Long": {},
-    "22 Extra Long": {},
-    "22 Extra L.R.": {},
-    "22 Long Shot": {},
-    "22 Long Rifle Shot Claybirding": {},
-    "22 Remington Automatic": {},
-    "22 Winchester Automatic": {},
-    "22 Winchester Magnum Rimfire et 22 Remington Special": {},
-    "17 Hornady Magnum Rimfire": {},
-    "17 Mach 2": {},
-    "17 Winchester Super Magnum": {},
-    "22 Long Rifle": {},
-    "22 Short": {},
-    "22 Winchester Magnum Rimfire": {}
+  "17 Hornady Magnum Rimfire" : {
+    "name" : "17 Hornady Magnum Rimfire",
+    "names" : [ "17 HMR" ],
+    "specs" : {
+      "coal_mm" : 34.67,
+      "coal_inch" : 1.364961367
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/17-hmr-en.pdf" ],
+    "diameter_mm" : 4.38,
+    "diameter_inch" : 0.172441038
+  },
+  "17 Mach 2" : {
+    "name" : "17 Mach 2",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 25.4,
+      "coal_inch" : 1.0000005399999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/17-mach-2-en-1.pdf" ],
+    "diameter_mm" : 4.38,
+    "diameter_inch" : 0.172441038
+  },
+  "17 Winchester Super Magnum" : {
+    "name" : "17 Winchester Super Magnum",
+    "names" : [ "17 Win. Super Mag.", "17 Winchester Short Magnum", "17 WSM" ],
+    "specs" : {
+      "coal_mm" : 40.39,
+      "coal_inch" : 1.590158339
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/17-wsm-en.pdf" ],
+    "diameter_mm" : 4.38,
+    "diameter_inch" : 0.172441038
+  },
+  "22 Bulleted Breech Cap" : {
+    "name" : "22 Bulleted Breech Cap",
+    "names" : [ "22 BB Cap" ],
+    "specs" : {
+      "coal_mm" : 11.18,
+      "coal_inch" : 0.440157718
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-bb-cap-en.pdf" ],
+    "diameter_mm" : 5.72,
+    "diameter_inch" : 0.22519697199999997
+  },
+  "22 Conical Ball Cap" : {
+    "name" : "22 Conical Ball Cap",
+    "names" : [ "22 CB Cap" ],
+    "specs" : {
+      "coal_mm" : 13.72,
+      "coal_inch" : 0.540157772
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-cb-cap-en.pdf" ],
+    "diameter_mm" : 5.72,
+    "diameter_inch" : 0.22519697199999997
+  },
+  "22 Extra L.R." : {
+    "name" : "22 Extra L.R.",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 25.4,
+      "coal_inch" : 1.0000005399999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-extra-lr-en.pdf" ],
+    "diameter_mm" : 5.73,
+    "diameter_inch" : 0.22559067300000002
+  },
+  "22 Extra Long" : {
+    "name" : "22 Extra Long",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 28.1,
+      "coal_inch" : 1.10629981
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-extra-long-en.pdf" ],
+    "diameter_mm" : 5.72,
+    "diameter_inch" : 0.22519697199999997
+  },
+  "22 Long" : {
+    "name" : "22 Long",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 22.56,
+      "coal_inch" : 0.8881894559999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-long-en.pdf" ],
+    "diameter_mm" : 5.72,
+    "diameter_inch" : 0.22519697199999997
+  },
+  "22 Long Rifle" : {
+    "name" : "22 Long Rifle",
+    "names" : [ "22 l.r.,22 lang für Büchsen", "22 lfB" ],
+    "specs" : {
+      "coal_mm" : 25.4,
+      "coal_inch" : 1.0000005399999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-long-rifle-en.pdf" ],
+    "diameter_mm" : 5.72,
+    "diameter_inch" : 0.22519697199999997
+  },
+  "22 Long Rifle Shot Claybirding" : {
+    "name" : "22 Long Rifle Shot Claybirding",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 25.15,
+      "coal_inch" : 0.9901580149999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-long-rifle-shot-claybirding-en.pdf" ],
+    "diameter_mm" : 5.51,
+    "diameter_inch" : 0.216929251
+  },
+  "22 Long Shot" : {
+    "name" : "22 Long Shot",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 22.38,
+      "coal_inch" : 0.8811028379999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-long-shot-en.pdf" ],
+    "diameter_mm" : 5.51,
+    "diameter_inch" : 0.216929251
+  },
+  "22 Remington Automatic" : {
+    "name" : "22 Remington Automatic",
+    "names" : [ "22 Rem. Auto" ],
+    "specs" : {
+      "coal_mm" : 23.95,
+      "coal_inch" : 0.9429138949999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-rem-auto-en.pdf" ],
+    "diameter_mm" : 5.8,
+    "diameter_inch" : 0.22834658
+  },
+  "22 Short" : {
+    "name" : "22 Short",
+    "names" : [ "22 kurz", "22 court" ],
+    "specs" : {
+      "coal_mm" : 17.65,
+      "coal_inch" : 0.6948822649999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-short-en.pdf" ],
+    "diameter_mm" : 5.72,
+    "diameter_inch" : 0.22519697199999997
+  },
+  "22 Winchester Automatic" : {
+    "name" : "22 Winchester Automatic",
+    "names" : [ "22 Win. Auto" ],
+    "specs" : {
+      "coal_mm" : 23.24,
+      "coal_inch" : 0.9149611239999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-win-auto-en.pdf" ],
+    "diameter_mm" : 5.78,
+    "diameter_inch" : 0.227559178
+  },
+  "22 Winchester Magnum Rimfire" : {
+    "name" : "22 Winchester Magnum Rimfire",
+    "names" : [ "22 Win.Mag.,22 WMR", "22 Magnum", "22 Win. Mag. R.F." ],
+    "specs" : {
+      "coal_mm" : 34.29,
+      "coal_inch" : 1.350000729
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-win-mag-rf-en.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "22 Winchester Magnum Rimfire et 22 Remington Special" : {
+    "name" : "22 Winchester Magnum Rimfire et 22 Remington Special",
+    "names" : [ "22 Win. R.F. et 22 Rem.Spl." ],
+    "specs" : {
+      "coal_mm" : 29.97,
+      "coal_inch" : 1.1799218969999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/22-win-rf-et-22-rem-spl-en.pdf" ],
+    "diameter_mm" : 5.8,
+    "diameter_inch" : 0.22834658
+  },
+  "4mm Randz. court" : {
+    "name" : "4mm Randz. court",
+    "names" : [ "4 mm Randz. court" ],
+    "specs" : {
+      "coal_mm" : 9.2,
+      "coal_inch" : 0.36220491999999993
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page1.pdf" ],
+    "diameter_mm" : 4.4,
+    "diameter_inch" : 0.17322844
+  },
+  "4mm Randz. long" : {
+    "name" : "4mm Randz. long",
+    "names" : [ "4 mm Randz. long" ],
+    "specs" : {
+      "coal_mm" : 11.2,
+      "coal_inch" : 0.44094511999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page2.pdf" ],
+    "diameter_mm" : 4.4,
+    "diameter_inch" : 0.17322844
+  },
+  "5.6mm (22) Flobert à balle" : {
+    "name" : "5.6mm (22) Flobert à balle",
+    "names" : [ "5.6 mm (22) Flobert à balle" ],
+    "specs" : {
+      "coal_mm" : 12.7,
+      "coal_inch" : 0.5000002699999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page4.pdf" ],
+    "diameter_mm" : 5.71,
+    "diameter_inch" : 0.224803271
+  },
+  "5.6mm Flobert à plombs DC" : {
+    "name" : "5.6mm Flobert à plombs DC",
+    "names" : [ "5.6 mm Flobert à plombs DC" ],
+    "specs" : {
+      "coal_mm" : 32.1,
+      "coal_inch" : 1.26378021
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page6.pdf" ],
+    "diameter_mm" : 5.73,
+    "diameter_inch" : 0.22559067300000002
+  },
+  "5.6mm Flobert à plombs SC" : {
+    "name" : "5.6mm Flobert à plombs SC",
+    "names" : [ "5.6 mm Flobert à plombs SC" ],
+    "specs" : {
+      "coal_mm" : 22.1,
+      "coal_inch" : 0.87007921
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page5.pdf" ],
+    "diameter_mm" : 5.73,
+    "diameter_inch" : 0.22559067300000002
+  },
+  "5mm Remington Magnum" : {
+    "name" : "5mm Remington Magnum",
+    "names" : [ "5 mm Rem.Mag." ],
+    "specs" : {
+      "coal_mm" : 32.89,
+      "coal_inch" : 1.294882589
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page3.pdf" ],
+    "diameter_mm" : 5.21,
+    "diameter_inch" : 0.205118221
+  },
+  "6mm Flobert à balle" : {
+    "name" : "6mm Flobert à balle",
+    "names" : [ "6 mm Flobert à balle" ],
+    "specs" : {
+      "coal_mm" : 12.7,
+      "coal_inch" : 0.5000002699999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page7.pdf" ],
+    "diameter_mm" : 5.87,
+    "diameter_inch" : 0.231102487
+  },
+  "6mm Flobert à balle DC" : {
+    "name" : "6mm Flobert à balle DC",
+    "names" : [ "6 mm Flobert à balle DC" ],
+    "specs" : {
+      "coal_mm" : 12.7,
+      "coal_inch" : 0.5000002699999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page8.pdf" ],
+    "diameter_mm" : 5.87,
+    "diameter_inch" : 0.231102487
+  },
+  "6mm ME Flobert court" : {
+    "name" : "6mm ME Flobert court",
+    "names" : [ "6 mm ME Flobert court" ],
+    "specs" : {
+      "coal_mm" : 9.2,
+      "coal_inch" : 0.36220491999999993
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/6mm-me-flobert-court-en.pdf" ],
+    "diameter_mm" : 5.65,
+    "diameter_inch" : 0.222441065
+  },
+  "9mm Flobert à balle" : {
+    "name" : "9mm Flobert à balle",
+    "names" : [ "9 mm Flobert à balle" ],
+    "specs" : {
+      "coal_mm" : 18.1,
+      "coal_inch" : 0.71259881
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page10.pdf" ],
+    "diameter_mm" : 8.8,
+    "diameter_inch" : 0.34645688
+  },
+  "9mm Flobert à plombs Carton" : {
+    "name" : "9mm Flobert à plombs Carton",
+    "names" : [ "9 mm Flobert à plombs Carton" ],
+    "specs" : {
+      "coal_mm" : 45.0,
+      "coal_inch" : 1.7716545
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page11.pdf" ],
+    "diameter_mm" : 8.8,
+    "diameter_inch" : 0.34645688
+  },
+  "9mm Flobert à plombs Metal" : {
+    "name" : "9mm Flobert à plombs Metal",
+    "names" : [ "9 mm Flobert à plombs Metal" ],
+    "specs" : {
+      "coal_mm" : 45.0,
+      "coal_inch" : 1.7716545
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-v/tabvcal-en-page12.pdf" ],
+    "diameter_mm" : 8.8,
+    "diameter_inch" : 0.34645688
+  }
 }

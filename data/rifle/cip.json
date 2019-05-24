@@ -1,371 +1,4389 @@
 {
-    "215": {},
-    "4.6 x 30": {},
-    "5mm / 35 SMc": {},
-    "5.45 x 39": {},
-    "5.6 x 39": {},
-    "5.6 x 50 Magnum": {},
-    "5.6 x 57": {},
-    "5.6 x 61 Super Express Vom Hofe": {},
-    "5.7 x 28": {},
-    "6 x 47 ATZL": {},
-    "6 x 47 SM": {},
-    "6 x 51 ATZL": {},
-    "6 x 62 Freres": {},
-    "6mm Bench Rest Farè": {},
-    "6mm Bench Rest Norma": {},
-    "6mm Bench Rest Remington": {},
-    "6mm D.B.G.": {},
-    "6mm Palmisano & Pindel Cartridge": {},
-    "6mm Palmisano & Pindel Cartridge ITA": {},
-    "6mm Palmisano & Pindel Cartridge-USA": {},
-    "6mm Remington (244 Remington)": {},
-    "6 XC": {},
-    "6.3 x 57 Farè": {},
-    "6.5 - 284 Norma": {},
-    "6.5 x 39": {},
-    "6.5 x 47 Lapua": {},
-    "6.5 x 52 Carcano": {},
-    "6.5 x 54 Mauser": {},
-    "6.5 x 54 Mannlicher–Schönauer": {},
-    "6.5 x 55 SE": {},
-    "6.5 x 55 T.R.I.": {},
-    "6.5 x 57": {},
-    "6.5 x 58 Mauser": {},
-    "6.5 x 63 Messner Magnum": {},
-    "6.5 x 64": {},
-    "6.5 x 64 Brenneke": {},
-    "6.5 x 65 Rheinisch-Westfälischen Sprengstoff-Fabriken": {},
-    "6.5 x 68": {},
-    "6.5 Creedmoor": {},
-    "6.5 Grendel": {},
-    "6.5mm D.B.G.": {},
-    "6.5mm Lahoz": {},
-    "6.8mm Remington Special Purpose Cartridge": {},
-    "7 x 33 Sako": {},
-    "7 x 44 Penna": {},
-    "7 x 57": {},
-    "7 x 64": {},
-    "7-47 Giani Special": {},
-    "7mm - 08 Remington": {},
-    "7mm Blaser Magnum": {},
-    "7mm Bench Rest Remington": {},
-    "7mm Express Remington": {},
-    "7mm KM": {},
-    "7mm Remington Short Action Ultra Magnum": {},
-    "7mm Remington Ultra Magnum": {},
-    "7mm Super Express Vom Hofe": {},
-    "7mm Winchester Short Magnum": {},
-    "7.21 Firebird": {},
-    "7.5 x 54 Manufacture d'armes de Saint-Étienne": {},
-    "7.5 x 55 Suisse": {},
-    "7.62 x 39": {},
-    "7.62 x 45": {},
-    "7.62 Uekötter Katzmeier Magnum": {},
-    "7.65 x 53 Argentine": {},
-    "7.82 Warbird": {},
-    "7.92 x 24 Van Bruaene Rik": {},
-    "7.92 x 33 kurz": {},
-    "8 x 51 (Mauser K)": {},
-    "8 x 56 Mannlicher–Schönauer": {},
-    "8 x 57 I": {},
-    "8 x 57 IS": {},
-    "8 x 57 PCC": {},
-    "8 x 60": {},
-    "8 x 60 S": {},
-    "8 x 64": {},
-    "8 x 64 S": {},
-    "8 x 68 S": {},
-    "8 x 75 S": {},
-    "8.5 x 63": {},
-    "8.5 x 68 Fanzoj": {},
-    "8.5mm Messner Magnum": {},
-    "9 x 56 Mannlicher–Schönauer": {},
-    "9 x 57": {},
-    "9.3 x 57": {},
-    "9.3 x 62": {},
-    "9.3 x 64 Brenneke": {},
-    "9.3 x 66 Sako": {},
-    "9.3 Roedale Short Magnum": {},
-    "9.5 x 57 Mannlicher–Schönauer": {},
-    "9.5 x 66 Super Express Vom Hofe": {},
-    "10.3 CSP": {},
-    "10.75 x 68": {},
-    "12.7 x 70 (500 Schüler)": {},
-    "12.7 x 108": {},
-    "17 Libra": {},
-    "17 Remington": {},
-    "17 Remington Fireball": {},
-    "204 Ruger": {},
-    "22 Palmisano & Pindel Cartridge-USA": {},
-    "22-250 Remington": {},
-    "220 Swift": {},
-    "222 Remington": {},
-    "222 Remington Magnum": {},
-    "223 Remington": {},
-    "223 Winchester Super Short Magnum": {},
-    "243 Winchester": {},
-    "243 Winchester Super Short Magnum": {},
-    "25 Remington": {},
-    "25 Winchester SSM": {},
-    "25-06 Remington": {},
-    "250 Savage": {},
-    "255 Giani Special": {},
-    "256 Magnum Gibbs": {},
-    "257 Roberts": {},
-    "260 Remington": {},
-    "264 Leroy Nitro Express": {},
-    "270 Winchester": {},
-    "270 Winchester Short Magnum": {},
-    "275 H.V. Rigby": {},
-    "277 Giani Special": {},
-    "280 Remington": {},
-    "280 Rimless Nitro Express Ross": {},
-    "284 Tony": {},
-    "284 Winchester": {},
-    "30 BR": {},
-    "30 Carbine": {},
-    "30 Court": {},
-    "30 Remington": {},
-    "30 TC": {},
-    "30-06 Ackley Improved": {},
-    "30-06 Court Cartry": {},
-    "30-06 Springfield": {},
-    "30-284 NOLASCO": {},
-    "30-284 Winchester": {},
-    "30-338 Prechtl Magnum": {},
-    "30-47 Giani Special": {},
-    "300 Advanced Armament Corporation Blackout": {},
-    "300 Blacktornado": {},
-    "300 Blaser Magnum": {},
-    "300 CR": {},
-    "300 Lapua Magnum": {},
-    "300 Norma Magnum": {},
-    "300 Pegasus": {},
-    "300 RCM": {},
-    "300 Remington Short Action Ultra Magnum": {},
-    "300 Remington Ultra Magnum": {},
-    "300 Savage": {},
-    "300 Winchester Short Magnum": {},
-    "308 EH": {},
-    "308 Match": {},
-    "308 Winchester": {},
-    "318 Rimless Nitro Express": {},
-    "32 Remington": {},
-    "325 Winchester Short Magnum": {},
-    "333 Rimless Nitro Express": {},
-    "338 Blaser Magnum": {},
-    "338 Federal": {},
-    "338 Lapua Magnum": {},
-    "338 Norma Magnum": {},
-    "338 RCM": {},
-    "338 Remington Ultra Magnum": {},
-    "338 Winchester Short Magnum": {},
-    "35 Remington": {},
-    "35 Whelen": {},
-    "350 Magnum Rigby": {},
-    "358 Winchester": {},
-    "375 Blaser Magnum": {},
-    "375 Chey Tac": {},
-    "375 Hölderlin": {},
-    "375 Remington Ultra Magnum": {},
-    "375 Ruger": {},
-    "376 Steyr": {},
-    "404 Rimless Nitro Express": {},
-    "408 Chey Tac": {},
-    "416 A-TEC": {},
-    "416 Barrett": {},
-    "416 Rigby": {},
-    "416 Ruger": {},
-    "416 Taylor": {},
-    "45 Blaser": {},
-    "450 Bushmaster": {},
-    "450 Rigby": {},
-    "460 Steyr": {},
-    "50 Browning": {},
-    "500 Jeffery": {},
-    "505 Magnum Gibbs": {},
-    "510 DTC": {},
-    "5.6 x 35 R": {},
-    "5.6 x 50 R Magnum": {},
-    "5.6 x 52 R": {},
-    "5.6 x 57 R": {},
-    "5.6 x 61 R Super Express Vom Hofe": {},
-    "5.6 x 70 R": {},
-    "6 x 50 R Scheiring": {},
-    "6 x 52 R BB2": {},
-    "6 x 52 R Bretschneider": {},
-    "6 x 62 R Freres": {},
-    "6 x 70 R": {},
-    "6.5 x 50 R": {},
-    "6.5 x 51 R (Arisaka)": {},
-    "6.5 x 52 R": {},
-    "6.5 x 52 R Keller & Simmann": {},
-    "6.5 x 57 R": {},
-    "6.5 x 58 R": {},
-    "6.5 x 65 R Rheinisch-Westfälischen Sprengstoff-Fabriken": {},
-    "6.5 x 68 R": {},
-    "6.5 x 70 R": {},
-    "7-30 Waters": {},
-    "7 x 50 R": {},
-    "7 x 57 R": {},
-    "7mm Magnum Flanged Holland & Holland": {},
-    "7 x 65 R": {},
-    "7 x 67 R Luyven": {},
-    "7 x 72 R": {},
-    "7 x 75 R Super Express Vom Hofe": {},
-    "7.62 x 53 R": {},
-    "7.62 x 54 R": {},
-    "8 x 50 R": {},
-    "8 x 51 R Lebel": {},
-    "8 x 56 R M30S": {},
-    "8 x 56 R M89 Portuguese Kropatschek": {},
-    "8 x 57 R 360": {},
-    "8 x 57 IR": {},
-    "8 x 57 IRS": {},
-    "8 x 58 R": {},
-    "8 x 60 R": {},
-    "8 x 60 RS": {},
-    "8 x 65 R": {},
-    "8 x 65 RS": {},
-    "8 x 72 R": {},
-    "8 x 75 RS": {},
-    "8mm – 348 Winchester": {},
-    "8.15 x 46 R": {},
-    "8.2 x 53 R": {},
-    "8.5 x 63 R": {},
-    "8.5 x 75 R Scheiring": {},
-    "9 x 53 R": {},
-    "9 x 57 R": {},
-    "9.3 x 53 R Finnish": {},
-    "9.3 x 72 R": {},
-    "9.3 x 74 R": {},
-    "10.3 x 60 R": {},
-    "11.15 x 60 R": {},
-    "17 Hornet": {},
-    "218 Bee": {},
-    "219 Zipper": {},
-    "22 Hornet": {},
-    "22 Savage": {},
-    "222 R Stief": {},
-    "225 Winchester": {},
-    "240 Flanged Nitro Express": {},
-    "25-20 Winchester": {},
-    "25-35 Winchester": {},
-    "256 Winchester Magnum": {},
-    "280 Flanged Nitro Express": {},
-    "297/230 Morris Long": {},
-    "297/230 Morris sh": {},
-    "30 R Blaser": {},
-    "30 Flanged Nitro Express Purdey": {},
-    "30 Super Flanged Holland & Holland": {},
-    "30-06 R Stief": {},
-    "30-30 Winchester": {},
-    "30-40 Krag": {},
-    "300/295 Rook Rifle": {},
-    "300 Sherwood": {},
-    "303 British": {},
-    "303 Savage": {},
-    "303 Sporting": {},
-    "307 Winchester": {},
-    "308 Marlin Express": {},
-    "310 Cadet Rifle": {},
-    "32 Winchester Self-loading": {},
-    "32 Winchester Special": {},
-    "32-20 Winchester": {},
-    "32-40 Winchester": {},
-    "33 Winchester": {},
-    "338 Marlin Express": {},
-    "348 Winchester": {},
-    "35 Winchester": {},
-    "35 Winchester Self-loading": {},
-    "350 No. 2 Rigby": {},
-    "351 Winchester Self-loading": {},
-    "356 Winchester": {},
-    "360 Nitro Express 21/4": {},
-    "369 Nitro Express Purdey": {},
-    "375 Flanged Nitro Express 21/2": {},
-    "375 Flanged Magnum Nitro Express": {},
-    "375 R Hölderlin": {},
-    "375 R Verney-Carron": {},
-    "375 Winchester": {},
-    "38-40 Winchester": {},
-    "38-55 Winchester": {},
-    "380 Long Rifle": {},
-    "40-60 Winchester": {},
-    "40-65 Winchester": {},
-    "40-82 Winchester": {},
-    "400 Purdey 3”": {},
-    "400/350 Nitro Express": {},
-    "401 Winchester Self-loading": {},
-    "405 Winchester": {},
-    "408 Winchester": {},
-    "44-40 Winchester": {},
-    "444 Marlin": {},
-    "45-60 Winchester": {},
-    "45-70 Elko Magnum": {},
-    "45-70 Government": {},
-    "45-75 Winchester": {},
-    "45-90 WM": {},
-    "45-110 Sharps 2\" 7/8": {},
-    "45-120 Sharps 3\" 1/4": {},
-    "450 Nitro Express 3\" 1/4": {},
-    "450 N° 2 Nitro Express 3\" 1/2 Eley": {},
-    "450/400 Nitro Express 3": {},
-    "450/400 Magnum Nitro Express 31/4": {},
-    "470 Nitro Express": {},
-    "475 N° 2 Nitro Express 31/2": {},
-    "475 N° 2 Nitro Express 3\" 1/2 Jeffery": {},
-    "50-70 Government": {},
-    "50-90 Sharps 2\" 1/2": {},
-    "50-95 Winchester": {},
-    "500 Nitro Express 3\"": {},
-    "500/416 Nitro Express 3\" 1/4": {},
-    "500/465 Nitro Express": {},
-    "56/50 Spencer": {},
-    "577/450 Sld. Martini–Henry": {},
-    "577 Nitro Express 3\"": {},
-    "577 Sld. Snider": {},
-    "600 Nitro Express": {},
-    "700 Holland & Holland Nitro Express": {},
-    "4 Bore Rifle": {},
-    "6.5mm Remington Magnum": {},
-    "7 x 61 Super": {},
-    "7mm Remington Magnum": {},
-    "7mm Rosè": {},
-    "7mm Shooting Times Westerner": {},
-    "7mm Weatherby Magnum": {},
-    "8mm Remington Magnum": {},
-    "11.5 x 51": {},
-    "224 Weatherby Magnum": {},
-    "240 Belted Rimless Nitro Express": {},
-    "240 Weatherby Magnum": {},
-    "244 Holland & Holland Magnum": {},
-    "257 Weatherby Magnum": {},
-    "264 Winchester Magnum": {},
-    "270 Weatherby Magnum": {},
-    "275 Belted Nitro Express": {},
-    "30 Super Belted Rimless Holland & Holland": {},
-    "30-378 Weatherby Magnum": {},
-    "300 Holland & Holland Magnum": {},
-    "300 Weatherby Magnum": {},
-    "300 Winchester Magnum": {},
-    "308 Norma Magnum": {},
-    "338 Winchester Magnum": {},
-    "338-378 Weatherby Mag": {},
-    "340 Weatherby Magnum": {},
-    "350 Remington Magnum": {},
-    "358 Norma Magnum": {},
-    "375 Holland & Holland Magnum": {},
-    "375 Weatherby Magnum": {},
-    "378 Weatherby Magnum": {},
-    "400 Holland & Holland Belted Magnum": {},
-    "416 Remington Magnum": {},
-    "416 Taylor Magnum": {},
-    "416 Weatherby Magnum": {},
-    "450 Marlin": {},
-    "458 Lott": {},
-    "458 Winchester Magnum": {},
-    "460 Weatherby Magnum": {},
-    "465 Holland & Holland Belted Magnum": {}
+  "10.3 CSP" : {
+    "name" : "10.3 CSP",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 72.7,
+      "coal_inch" : 2.86220627
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/10-3-csp-en.pdf" ],
+    "diameter_mm" : 10.54,
+    "diameter_inch" : 0.41496085399999993
+  },
+  "10.3 x 60 R" : {
+    "name" : "10.3 x 60 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.9,
+      "coal_inch" : 3.10630089
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page52.pdf" ],
+    "diameter_mm" : 10.54,
+    "diameter_inch" : 0.41496085399999993
+  },
+  "10.75 x 68" : {
+    "name" : "10.75 x 68",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 81.0,
+      "coal_inch" : 3.1889781
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page74.pdf" ],
+    "diameter_mm" : 10.78,
+    "diameter_inch" : 0.42440967799999996
+  },
+  "11.15 x 60 R" : {
+    "name" : "11.15 x 60 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.0,
+      "coal_inch" : 3.0708678
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page53.pdf" ],
+    "diameter_mm" : 11.4,
+    "diameter_inch" : 0.44881914
+  },
+  "11.5 x 51" : {
+    "name" : "11.5 x 51",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 62.0,
+      "coal_inch" : 2.4409462
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page7.pdf" ],
+    "diameter_mm" : 11.49,
+    "diameter_inch" : 0.452362449
+  },
+  "12.7 x 108" : {
+    "name" : "12.7 x 108",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 147.0,
+      "coal_inch" : 5.7874047
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/12-7-x-108-170419-en.pdf" ],
+    "diameter_mm" : 13.01,
+    "diameter_inch" : 0.512205001
+  },
+  "12.7 x 70 (500 Schüler)" : {
+    "name" : "12.7 x 70 (500 Schüler)",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 88.0,
+      "coal_inch" : 3.4645688
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page75.pdf" ],
+    "diameter_mm" : 12.96,
+    "diameter_inch" : 0.510236496
+  },
+  "17 Hornet" : {
+    "name" : "17 Hornet",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 43.69,
+      "coal_inch" : 1.7200796689999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/17-hornet-en.pdf" ],
+    "diameter_mm" : 4.38,
+    "diameter_inch" : 0.172441038
+  },
+  "17 Libra" : {
+    "name" : "17 Libra",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 41.0,
+      "coal_inch" : 1.6141740999999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page76.pdf" ],
+    "diameter_mm" : 4.28,
+    "diameter_inch" : 0.168504028
+  },
+  "17 Remington" : {
+    "name" : "17 Remington",
+    "names" : [ "17 Rem." ],
+    "specs" : {
+      "coal_mm" : 54.61,
+      "coal_inch" : 2.150001161
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page77.pdf" ],
+    "diameter_mm" : 4.38,
+    "diameter_inch" : 0.172441038
+  },
+  "17 Remington Fireball" : {
+    "name" : "17 Remington Fireball",
+    "names" : [ "17 Rem. Fireball" ],
+    "specs" : {
+      "coal_mm" : 46.48,
+      "coal_inch" : 1.8299222479999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/17-rem-fireball-en.pdf" ],
+    "diameter_mm" : 4.38,
+    "diameter_inch" : 0.172441038
+  },
+  "204 Ruger" : {
+    "name" : "204 Ruger",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 57.4,
+      "coal_inch" : 2.25984374
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page79.pdf" ],
+    "diameter_mm" : 5.19,
+    "diameter_inch" : 0.204330819
+  },
+  "215" : {
+    "name" : "215",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 58.0,
+      "coal_inch" : 2.2834658
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/215-en.pdf" ],
+    "diameter_mm" : 5.64,
+    "diameter_inch" : 0.22204736399999997
+  },
+  "218 Bee" : {
+    "name" : "218 Bee",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 42.67,
+      "coal_inch" : 1.679922167
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page54.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "219 Zipper" : {
+    "name" : "219 Zipper",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 57.4,
+      "coal_inch" : 2.25984374
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page55.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "22 Hornet" : {
+    "name" : "22 Hornet",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 43.76,
+      "coal_inch" : 1.7228355759999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page56.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "22 Palmisano & Pindel Cartridge-USA" : {
+    "name" : "22 Palmisano & Pindel Cartridge-USA",
+    "names" : [ "22 PPC-USA" ],
+    "specs" : {
+      "coal_mm" : 55.7,
+      "coal_inch" : 2.19291457
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page81.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "22 Savage" : {
+    "name" : "22 Savage",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 63.75,
+      "coal_inch" : 2.509843875
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page57.pdf" ],
+    "diameter_mm" : 5.79,
+    "diameter_inch" : 0.227952879
+  },
+  "22-250 Remington" : {
+    "name" : "22-250 Remington",
+    "names" : [ "22-250 Rem." ],
+    "specs" : {
+      "coal_mm" : 59.69,
+      "coal_inch" : 2.350001269
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page82.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "220 Swift" : {
+    "name" : "220 Swift",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 68.07,
+      "coal_inch" : 2.679922707
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page83.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "222 R Stief" : {
+    "name" : "222 R Stief",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 54.1,
+      "coal_inch" : 2.12992241
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/222-r-stief-en.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "222 Remington" : {
+    "name" : "222 Remington",
+    "names" : [ "222 Rem." ],
+    "specs" : {
+      "coal_mm" : 54.1,
+      "coal_inch" : 2.12992241
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page84.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "222 Remington Magnum" : {
+    "name" : "222 Remington Magnum",
+    "names" : [ "222 Rem.Mag." ],
+    "specs" : {
+      "coal_mm" : 57.91,
+      "coal_inch" : 2.2799224909999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page85.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "223 Remington" : {
+    "name" : "223 Remington",
+    "names" : [ "223 Rem." ],
+    "specs" : {
+      "coal_mm" : 57.4,
+      "coal_inch" : 2.25984374
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/223-rem-170406-en.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "223 Winchester Super Short Magnum" : {
+    "name" : "223 Winchester Super Short Magnum",
+    "names" : [ "223 Win. SS Mag." ],
+    "specs" : {
+      "coal_mm" : 59.94,
+      "coal_inch" : 2.3598437939999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page87.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "224 Weatherby Magnum" : {
+    "name" : "224 Weatherby Magnum",
+    "names" : [ "224 Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 59.18,
+      "coal_inch" : 2.329922518
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page8.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "225 Winchester" : {
+    "name" : "225 Winchester",
+    "names" : [ "225 Win." ],
+    "specs" : {
+      "coal_mm" : 63.5,
+      "coal_inch" : 2.50000135
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/225-win-en.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "240 Belted Rimless Nitro Express" : {
+    "name" : "240 Belted Rimless Nitro Express",
+    "names" : [ "240 Belt. Riml. N.E." ],
+    "specs" : {
+      "coal_mm" : 82.55,
+      "coal_inch" : 3.2500017549999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page9.pdf" ],
+    "diameter_mm" : 6.22,
+    "diameter_inch" : 0.24488202199999998
+  },
+  "240 Flanged Nitro Express" : {
+    "name" : "240 Flanged Nitro Express",
+    "names" : [ "240 Fl. N.E." ],
+    "specs" : {
+      "coal_mm" : 82.55,
+      "coal_inch" : 3.2500017549999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page59.pdf" ],
+    "diameter_mm" : 6.22,
+    "diameter_inch" : 0.24488202199999998
+  },
+  "240 Weatherby Magnum" : {
+    "name" : "240 Weatherby Magnum",
+    "names" : [ "240 Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 78.74,
+      "coal_inch" : 3.1000016739999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page10.pdf" ],
+    "diameter_mm" : 6.18,
+    "diameter_inch" : 0.24330721799999996
+  },
+  "243 Winchester" : {
+    "name" : "243 Winchester",
+    "names" : [ "243 Win." ],
+    "specs" : {
+      "coal_mm" : 68.83,
+      "coal_inch" : 2.709843983
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page88.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "243 Winchester Super Short Magnum" : {
+    "name" : "243 Winchester Super Short Magnum",
+    "names" : [ "243 Win. SS Mag." ],
+    "specs" : {
+      "coal_mm" : 59.94,
+      "coal_inch" : 2.3598437939999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page89.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "244 Holland & Holland Magnum" : {
+    "name" : "244 Holland & Holland Magnum",
+    "names" : [ "244 H&H Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page11.pdf" ],
+    "diameter_mm" : 6.22,
+    "diameter_inch" : 0.24488202199999998
+  },
+  "25 Remington" : {
+    "name" : "25 Remington",
+    "names" : [ "25 Rem." ],
+    "specs" : {
+      "coal_mm" : 64.14,
+      "coal_inch" : 2.525198214
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page90.pdf" ],
+    "diameter_mm" : 6.58,
+    "diameter_inch" : 0.259055258
+  },
+  "25 Winchester SSM" : {
+    "name" : "25 Winchester SSM",
+    "names" : [ "25 Win. SSM" ],
+    "specs" : {
+      "coal_mm" : 59.94,
+      "coal_inch" : 2.3598437939999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/25-win-super-short-mag-en.pdf" ],
+    "diameter_mm" : 6.54,
+    "diameter_inch" : 0.25748045399999997
+  },
+  "25-06 Remington" : {
+    "name" : "25-06 Remington",
+    "names" : [ "25-06 Rem." ],
+    "specs" : {
+      "coal_mm" : 82.55,
+      "coal_inch" : 3.2500017549999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page92.pdf" ],
+    "diameter_mm" : 6.54,
+    "diameter_inch" : 0.25748045399999997
+  },
+  "25-20 Winchester" : {
+    "name" : "25-20 Winchester",
+    "names" : [ "25-20 Win." ],
+    "specs" : {
+      "coal_mm" : 40.44,
+      "coal_inch" : 1.5921268439999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page60.pdf" ],
+    "diameter_mm" : 6.55,
+    "diameter_inch" : 0.257874155
+  },
+  "25-35 Winchester" : {
+    "name" : "25-35 Winchester",
+    "names" : [ "25-35 Win." ],
+    "specs" : {
+      "coal_mm" : 64.77,
+      "coal_inch" : 2.5500013769999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page61.pdf" ],
+    "diameter_mm" : 6.55,
+    "diameter_inch" : 0.257874155
+  },
+  "250 Savage" : {
+    "name" : "250 Savage",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 63.88,
+      "coal_inch" : 2.514961988
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page93.pdf" ],
+    "diameter_mm" : 6.55,
+    "diameter_inch" : 0.257874155
+  },
+  "255 Giani Special" : {
+    "name" : "255 Giani Special",
+    "names" : [ "255 GS" ],
+    "specs" : {
+      "coal_mm" : 72.5,
+      "coal_inch" : 2.8543322499999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page94.pdf" ],
+    "diameter_mm" : 6.54,
+    "diameter_inch" : 0.25748045399999997
+  },
+  "256 Magnum Gibbs" : {
+    "name" : "256 Magnum Gibbs",
+    "names" : [ "256 Mag. Gibbs" ],
+    "specs" : {
+      "coal_mm" : 77.47,
+      "coal_inch" : 3.0500016469999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page95.pdf" ],
+    "diameter_mm" : 6.73,
+    "diameter_inch" : 0.264960773
+  },
+  "256 Winchester Magnum" : {
+    "name" : "256 Winchester Magnum",
+    "names" : [ "256 Win. Mag." ],
+    "specs" : {
+      "coal_mm" : 40.39,
+      "coal_inch" : 1.590158339
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/256-win-mag-en.pdf" ],
+    "diameter_mm" : 6.53,
+    "diameter_inch" : 0.257086753
+  },
+  "257 Roberts" : {
+    "name" : "257 Roberts",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 70.49,
+      "coal_inch" : 2.7751983489999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page96.pdf" ],
+    "diameter_mm" : 6.55,
+    "diameter_inch" : 0.257874155
+  },
+  "257 Weatherby Magnum" : {
+    "name" : "257 Weatherby Magnum",
+    "names" : [ "257 Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 80.52,
+      "coal_inch" : 3.1700804519999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page12.pdf" ],
+    "diameter_mm" : 6.54,
+    "diameter_inch" : 0.25748045399999997
+  },
+  "260 Remington" : {
+    "name" : "260 Remington",
+    "names" : [ "260 Rem." ],
+    "specs" : {
+      "coal_mm" : 71.12,
+      "coal_inch" : 2.800001512
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page97.pdf" ],
+    "diameter_mm" : 6.72,
+    "diameter_inch" : 0.26456707199999996
+  },
+  "264 Leroy Nitro Express" : {
+    "name" : "264 Leroy Nitro Express",
+    "names" : [ "264 Leroy N.E." ],
+    "specs" : {
+      "coal_mm" : 65.0,
+      "coal_inch" : 2.5590565
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page98.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "264 Winchester Magnum" : {
+    "name" : "264 Winchester Magnum",
+    "names" : [ "264 Win. Mag." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page13.pdf" ],
+    "diameter_mm" : 6.73,
+    "diameter_inch" : 0.264960773
+  },
+  "270 Weatherby Magnum" : {
+    "name" : "270 Weatherby Magnum",
+    "names" : [ "270 Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 83.69,
+      "coal_inch" : 3.294883669
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page14.pdf" ],
+    "diameter_mm" : 7.04,
+    "diameter_inch" : 0.277165504
+  },
+  "270 Winchester" : {
+    "name" : "270 Winchester",
+    "names" : [ "270 Win." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page99.pdf" ],
+    "diameter_mm" : 7.06,
+    "diameter_inch" : 0.27795290599999994
+  },
+  "270 Winchester Short Magnum" : {
+    "name" : "270 Winchester Short Magnum",
+    "names" : [ "270 Win. Short Mag." ],
+    "specs" : {
+      "coal_mm" : 72.64,
+      "coal_inch" : 2.859844064
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page100.pdf" ],
+    "diameter_mm" : 7.06,
+    "diameter_inch" : 0.27795290599999994
+  },
+  "275 Belted Nitro Express" : {
+    "name" : "275 Belted Nitro Express",
+    "names" : [ "275 Belt. N.E." ],
+    "specs" : {
+      "coal_mm" : 87.12,
+      "coal_inch" : 3.429923112
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page15.pdf" ],
+    "diameter_mm" : 7.29,
+    "diameter_inch" : 0.287008029
+  },
+  "275 H.V. Rigby" : {
+    "name" : "275 H.V. Rigby",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 77.98,
+      "coal_inch" : 3.070080398
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page101.pdf" ],
+    "diameter_mm" : 7.21,
+    "diameter_inch" : 0.28385842099999997
+  },
+  "277 Giani Special" : {
+    "name" : "277 Giani Special",
+    "names" : [ "277 GS" ],
+    "specs" : {
+      "coal_mm" : 87.0,
+      "coal_inch" : 3.4251986999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/277-gs-en.pdf" ],
+    "diameter_mm" : 7.06,
+    "diameter_inch" : 0.27795290599999994
+  },
+  "280 Flanged Nitro Express" : {
+    "name" : "280 Flanged Nitro Express",
+    "names" : [ "280 Fl. N.E." ],
+    "specs" : {
+      "coal_mm" : 87.88,
+      "coal_inch" : 3.4598443879999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page63.pdf" ],
+    "diameter_mm" : 7.29,
+    "diameter_inch" : 0.287008029
+  },
+  "280 Remington" : {
+    "name" : "280 Remington",
+    "names" : [ "280 Rem." ],
+    "specs" : {
+      "coal_mm" : 84.58,
+      "coal_inch" : 3.329923058
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page103.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "280 Rimless Nitro Express Ross" : {
+    "name" : "280 Rimless Nitro Express Ross",
+    "names" : [ "280 Riml. N.E. Ross" ],
+    "specs" : {
+      "coal_mm" : 87.88,
+      "coal_inch" : 3.4598443879999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page104.pdf" ],
+    "diameter_mm" : 7.29,
+    "diameter_inch" : 0.287008029
+  },
+  "284 Tony" : {
+    "name" : "284 Tony",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.0,
+      "coal_inch" : 3.0708678
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/284-tony-en.pdf" ],
+    "diameter_mm" : 7.21,
+    "diameter_inch" : 0.28385842099999997
+  },
+  "284 Winchester" : {
+    "name" : "284 Winchester",
+    "names" : [ "284 Win." ],
+    "specs" : {
+      "coal_mm" : 71.12,
+      "coal_inch" : 2.800001512
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page105.pdf" ],
+    "diameter_mm" : 7.21,
+    "diameter_inch" : 0.28385842099999997
+  },
+  "297/230 Morris Long" : {
+    "name" : "297/230 Morris Long",
+    "names" : [ "297/230 Morris lg" ],
+    "specs" : {
+      "coal_mm" : 27.43,
+      "coal_inch" : 1.079921843
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page64.pdf" ],
+    "diameter_mm" : 5.71,
+    "diameter_inch" : 0.224803271
+  },
+  "297/230 Morris sh" : {
+    "name" : "297/230 Morris sh",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 22.61,
+      "coal_inch" : 0.8901579609999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page65.pdf" ],
+    "diameter_mm" : 5.71,
+    "diameter_inch" : 0.224803271
+  },
+  "30 BR" : {
+    "name" : "30 BR",
+    "names" : [ "30 Bench Rest" ],
+    "specs" : {
+      "coal_mm" : 58.0,
+      "coal_inch" : 2.2834658
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/30-br-en.pdf" ],
+    "diameter_mm" : 7.82,
+    "diameter_inch" : 0.307874182
+  },
+  "30 Carbine" : {
+    "name" : "30 Carbine",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 42.67,
+      "coal_inch" : 1.679922167
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page106.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30 Court" : {
+    "name" : "30 Court",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 41.35,
+      "coal_inch" : 1.627953635
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page107.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30 Flanged Nitro Express Purdey" : {
+    "name" : "30 Flanged Nitro Express Purdey",
+    "names" : [ "30 Fl. N.E. Purdey" ],
+    "specs" : {
+      "coal_mm" : 75.69,
+      "coal_inch" : 2.9799228689999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/30-fi-ne-purdey-en.pdf" ],
+    "diameter_mm" : 7.82,
+    "diameter_inch" : 0.307874182
+  },
+  "30 R Blaser" : {
+    "name" : "30 R Blaser",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 95.0,
+      "coal_inch" : 3.7401595
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page66.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30 Remington" : {
+    "name" : "30 Remington",
+    "names" : [ "30 Rem." ],
+    "specs" : {
+      "coal_mm" : 64.14,
+      "coal_inch" : 2.525198214
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page108.pdf" ],
+    "diameter_mm" : 7.8,
+    "diameter_inch" : 0.30708678
+  },
+  "30 Super Belted Rimless Holland & Holland" : {
+    "name" : "30 Super Belted Rimless Holland & Holland",
+    "names" : [ "30 Super Bl Riml. H&H" ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page16.pdf" ],
+    "diameter_mm" : 7.82,
+    "diameter_inch" : 0.307874182
+  },
+  "30 Super Flanged Holland & Holland" : {
+    "name" : "30 Super Flanged Holland & Holland",
+    "names" : [ "300 Fl. N.E.", "30 Super Fl. H&H" ],
+    "specs" : {
+      "coal_mm" : 93.73,
+      "coal_inch" : 3.690159473
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/30-super-fi-h-h-en.pdf" ],
+    "diameter_mm" : 7.82,
+    "diameter_inch" : 0.307874182
+  },
+  "30 TC" : {
+    "name" : "30 TC",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 67.56,
+      "coal_inch" : 2.659843956
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page109.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-06 Ackley Improved" : {
+    "name" : "30-06 Ackley Improved",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/30-06-ackley-improved-en.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-06 Court Cartry" : {
+    "name" : "30-06 Court Cartry",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.3,
+      "coal_inch" : 3.2401592299999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page110.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-06 R Stief" : {
+    "name" : "30-06 R Stief",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page69.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-06 Springfield" : {
+    "name" : "30-06 Springfield",
+    "names" : [ "30-06", "7,62 x 63", "30-06 Spring." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page111.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-284 NOLASCO" : {
+    "name" : "30-284 NOLASCO",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 76.0,
+      "coal_inch" : 2.9921276
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page112.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-284 Winchester" : {
+    "name" : "30-284 Winchester",
+    "names" : [ "30-284 Win." ],
+    "specs" : {
+      "coal_mm" : 72.0,
+      "coal_inch" : 2.8346472
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page113.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-30 Winchester" : {
+    "name" : "30-30 Winchester",
+    "names" : [ "30-30 Win." ],
+    "specs" : {
+      "coal_mm" : 64.77,
+      "coal_inch" : 2.5500013769999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page70.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-338 Prechtl Magnum" : {
+    "name" : "30-338 Prechtl Magnum",
+    "names" : [ "30-338 Prechtl Mag." ],
+    "specs" : {
+      "coal_mm" : 93.2,
+      "coal_inch" : 3.66929332
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/30-338-prechtl-magnum-170310-en.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-378 Weatherby Magnum" : {
+    "name" : "30-378 Weatherby Magnum",
+    "names" : [ "30-378 Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 95.25,
+      "coal_inch" : 3.7500020249999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page17.pdf" ],
+    "diameter_mm" : 7.83,
+    "diameter_inch" : 0.30826788299999996
+  },
+  "30-40 Krag" : {
+    "name" : "30-40 Krag",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.46,
+      "coal_inch" : 3.088978046
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/30-40-krag-en.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "30-47 Giani Special" : {
+    "name" : "30-47 Giani Special",
+    "names" : [ "30-47 GS" ],
+    "specs" : {
+      "coal_mm" : 66.6,
+      "coal_inch" : 2.6220486599999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/30-47-gs-en.pdf" ],
+    "diameter_mm" : 7.82,
+    "diameter_inch" : 0.307874182
+  },
+  "300 Advanced Armament Corporation Blackout" : {
+    "name" : "300 Advanced Armament Corporation Blackout",
+    "names" : [ "300 Whisper", "300 BLK", "7,62 x 35", "300 AAC Blackout" ],
+    "specs" : {
+      "coal_mm" : 57.4,
+      "coal_inch" : 2.25984374
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/300-aac-blacout-170307-en.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "300 Blacktornado" : {
+    "name" : "300 Blacktornado",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.0,
+      "coal_inch" : 3.3070884
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/300-blacktornado-en.pdf" ],
+    "diameter_mm" : 7.83,
+    "diameter_inch" : 0.30826788299999996
+  },
+  "300 Blaser Magnum" : {
+    "name" : "300 Blaser Magnum",
+    "names" : [ "300 Blaser Mag." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page114.pdf" ],
+    "diameter_mm" : 7.83,
+    "diameter_inch" : 0.30826788299999996
+  },
+  "300 CR" : {
+    "name" : "300 CR",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 71.0,
+      "coal_inch" : 2.7952771
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page115.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "300 Holland & Holland Magnum" : {
+    "name" : "300 Holland & Holland Magnum",
+    "names" : [ "30 Super Belt. Riml. H&H", "300 H&H Belt. Riml. N.E.", "300 H&H Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/300-h-h-mag-en.pdf" ],
+    "diameter_mm" : 7.82,
+    "diameter_inch" : 0.307874182
+  },
+  "300 Lapua Magnum" : {
+    "name" : "300 Lapua Magnum",
+    "names" : [ "300 Lapua Mag." ],
+    "specs" : {
+      "coal_mm" : 94.5,
+      "coal_inch" : 3.7204744499999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page116.pdf" ],
+    "diameter_mm" : 7.87,
+    "diameter_inch" : 0.309842687
+  },
+  "300 Norma Magnum" : {
+    "name" : "300 Norma Magnum",
+    "names" : [ "300 Norma Mag" ],
+    "specs" : {
+      "coal_mm" : 93.5,
+      "coal_inch" : 3.68110435
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/300-norma-mag-en.pdf" ],
+    "diameter_mm" : 7.83,
+    "diameter_inch" : 0.30826788299999996
+  },
+  "300 Pegasus" : {
+    "name" : "300 Pegasus",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 95.25,
+      "coal_inch" : 3.7500020249999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/300-pegasus-en.pdf" ],
+    "diameter_mm" : 7.82,
+    "diameter_inch" : 0.307874182
+  },
+  "300 RCM" : {
+    "name" : "300 RCM",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 72.14,
+      "coal_inch" : 2.8401590139999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/300-rcm-en.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "300 Remington Short Action Ultra Magnum" : {
+    "name" : "300 Remington Short Action Ultra Magnum",
+    "names" : [ "300 Rem. SA Ultra Mag." ],
+    "specs" : {
+      "coal_mm" : 71.76,
+      "coal_inch" : 2.825198376
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page118.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "300 Remington Ultra Magnum" : {
+    "name" : "300 Remington Ultra Magnum",
+    "names" : [ "300 Rem. Ultra Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page119.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "300 Savage" : {
+    "name" : "300 Savage",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 66.04,
+      "coal_inch" : 2.600001404
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page120.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "300 Sherwood" : {
+    "name" : "300 Sherwood",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 51.82,
+      "coal_inch" : 2.040158582
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page73.pdf" ],
+    "diameter_mm" : 7.62,
+    "diameter_inch" : 0.300000162
+  },
+  "300 Weatherby Magnum" : {
+    "name" : "300 Weatherby Magnum",
+    "names" : [ "300 Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 90.42,
+      "coal_inch" : 3.5598444419999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page19.pdf" ],
+    "diameter_mm" : 7.83,
+    "diameter_inch" : 0.30826788299999996
+  },
+  "300 Winchester Magnum" : {
+    "name" : "300 Winchester Magnum",
+    "names" : [ "300 Win. Mag." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page20.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "300 Winchester Short Magnum" : {
+    "name" : "300 Winchester Short Magnum",
+    "names" : [ "300 Win. Short Mag." ],
+    "specs" : {
+      "coal_mm" : 72.64,
+      "coal_inch" : 2.859844064
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page122.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "300/295 Rook Rifle" : {
+    "name" : "300/295 Rook Rifle",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 36.83,
+      "coal_inch" : 1.450000783
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/300-295-rook-rifle-en.pdf" ],
+    "diameter_mm" : 7.65,
+    "diameter_inch" : 0.301181265
+  },
+  "303 British" : {
+    "name" : "303 British",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.11,
+      "coal_inch" : 3.075198511
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page74.pdf" ],
+    "diameter_mm" : 7.92,
+    "diameter_inch" : 0.31181119199999996
+  },
+  "303 Savage" : {
+    "name" : "303 Savage",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 64.01,
+      "coal_inch" : 2.520080101
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/303-savage-en.pdf" ],
+    "diameter_mm" : 7.9,
+    "diameter_inch" : 0.31102379
+  },
+  "303 Sporting" : {
+    "name" : "303 Sporting",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 74.49,
+      "coal_inch" : 2.9326787489999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page76.pdf" ],
+    "diameter_mm" : 7.92,
+    "diameter_inch" : 0.31181119199999996
+  },
+  "307 Winchester" : {
+    "name" : "307 Winchester",
+    "names" : [ "307 Win." ],
+    "specs" : {
+      "coal_mm" : 65.02,
+      "coal_inch" : 2.559843902
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/307-win-en.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "308 EH" : {
+    "name" : "308 EH",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 57.5,
+      "coal_inch" : 2.26378075
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page123.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "308 Marlin Express" : {
+    "name" : "308 Marlin Express",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 66.04,
+      "coal_inch" : 2.600001404
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/308-marlin-express-en.pdf" ],
+    "diameter_mm" : 7.84,
+    "diameter_inch" : 0.308661584
+  },
+  "308 Match" : {
+    "name" : "308 Match",
+    "names" : [ "308 GAC" ],
+    "specs" : {
+      "coal_mm" : 71.12,
+      "coal_inch" : 2.800001512
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/308-match-en.pdf" ],
+    "diameter_mm" : 7.84,
+    "diameter_inch" : 0.308661584
+  },
+  "308 Norma Magnum" : {
+    "name" : "308 Norma Magnum",
+    "names" : [ "308 Norma Mag." ],
+    "specs" : {
+      "coal_mm" : 85.0,
+      "coal_inch" : 3.3464585
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/308-norma-mag-en.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "308 Winchester" : {
+    "name" : "308 Winchester",
+    "names" : [ "7,62 x 51", "308 Winchester", "308 Win." ],
+    "specs" : {
+      "coal_mm" : 71.12,
+      "coal_inch" : 2.800001512
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page125.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "310 Cadet Rifle" : {
+    "name" : "310 Cadet Rifle",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 40.64,
+      "coal_inch" : 1.6000008639999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page78.pdf" ],
+    "diameter_mm" : 8.2,
+    "diameter_inch" : 0.32283481999999997
+  },
+  "318 Rimless Nitro Express" : {
+    "name" : "318 Rimless Nitro Express",
+    "names" : [ "318 Westley Richards", "318 Riml. N.E." ],
+    "specs" : {
+      "coal_mm" : 89.66,
+      "coal_inch" : 3.5299231659999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page126.pdf" ],
+    "diameter_mm" : 8.38,
+    "diameter_inch" : 0.329921438
+  },
+  "32 Remington" : {
+    "name" : "32 Remington",
+    "names" : [ "32 Rem." ],
+    "specs" : {
+      "coal_mm" : 64.14,
+      "coal_inch" : 2.525198214
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page127.pdf" ],
+    "diameter_mm" : 8.15,
+    "diameter_inch" : 0.320866315
+  },
+  "32 Winchester Self-loading" : {
+    "name" : "32 Winchester Self-loading",
+    "names" : [ "32 Win. SL" ],
+    "specs" : {
+      "coal_mm" : 47.75,
+      "coal_inch" : 1.879922275
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page79.pdf" ],
+    "diameter_mm" : 8.18,
+    "diameter_inch" : 0.322047418
+  },
+  "32 Winchester Special" : {
+    "name" : "32 Winchester Special",
+    "names" : [ "32 Win. Spec." ],
+    "specs" : {
+      "coal_mm" : 65.15,
+      "coal_inch" : 2.5649620150000003
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page80.pdf" ],
+    "diameter_mm" : 8.18,
+    "diameter_inch" : 0.322047418
+  },
+  "32-20 Winchester" : {
+    "name" : "32-20 Winchester",
+    "names" : [ "32-20 Win." ],
+    "specs" : {
+      "coal_mm" : 40.44,
+      "coal_inch" : 1.5921268439999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page81.pdf" ],
+    "diameter_mm" : 7.94,
+    "diameter_inch" : 0.312598594
+  },
+  "32-40 Winchester" : {
+    "name" : "32-40 Winchester",
+    "names" : [ "32-40 Win." ],
+    "specs" : {
+      "coal_mm" : 63.5,
+      "coal_inch" : 2.50000135
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page82.pdf" ],
+    "diameter_mm" : 8.15,
+    "diameter_inch" : 0.320866315
+  },
+  "325 Winchester Short Magnum" : {
+    "name" : "325 Winchester Short Magnum",
+    "names" : [ "325 WSM" ],
+    "specs" : {
+      "coal_mm" : 72.64,
+      "coal_inch" : 2.859844064
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page128.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "33 Winchester" : {
+    "name" : "33 Winchester",
+    "names" : [ "33 Win." ],
+    "specs" : {
+      "coal_mm" : 70.99,
+      "coal_inch" : 2.7948833989999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page83.pdf" ],
+    "diameter_mm" : 8.6,
+    "diameter_inch" : 0.33858286
+  },
+  "333 Rimless Nitro Express" : {
+    "name" : "333 Rimless Nitro Express",
+    "names" : [ "333 Riml. N.E." ],
+    "specs" : {
+      "coal_mm" : 88.9,
+      "coal_inch" : 3.50000189
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page129.pdf" ],
+    "diameter_mm" : 8.46,
+    "diameter_inch" : 0.33307104600000004
+  },
+  "338 Blaser Magnum" : {
+    "name" : "338 Blaser Magnum",
+    "names" : [ "338 Blaser Mag." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page130.pdf" ],
+    "diameter_mm" : 8.59,
+    "diameter_inch" : 0.33818915899999996
+  },
+  "338 Federal" : {
+    "name" : "338 Federal",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 71.63,
+      "coal_inch" : 2.8200802629999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/338-federal-en.pdf" ],
+    "diameter_mm" : 8.61,
+    "diameter_inch" : 0.33897656099999995
+  },
+  "338 Lapua Magnum" : {
+    "name" : "338 Lapua Magnum",
+    "names" : [ "8,6 (mm) x 70", "338 Lapua Mag." ],
+    "specs" : {
+      "coal_mm" : 93.5,
+      "coal_inch" : 3.68110435
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/338-lapua-mag-en.pdf" ],
+    "diameter_mm" : 8.61,
+    "diameter_inch" : 0.33897656099999995
+  },
+  "338 Marlin Express" : {
+    "name" : "338 Marlin Express",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 62.23,
+      "coal_inch" : 2.450001323
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page84.pdf" ],
+    "diameter_mm" : 8.6,
+    "diameter_inch" : 0.33858286
+  },
+  "338 Norma Magnum" : {
+    "name" : "338 Norma Magnum",
+    "names" : [ "338 Norma Mag." ],
+    "specs" : {
+      "coal_mm" : 93.5,
+      "coal_inch" : 3.68110435
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page133.pdf" ],
+    "diameter_mm" : 8.6,
+    "diameter_inch" : 0.33858286
+  },
+  "338 RCM" : {
+    "name" : "338 RCM",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 72.14,
+      "coal_inch" : 2.8401590139999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/338-rcm-en.pdf" ],
+    "diameter_mm" : 8.61,
+    "diameter_inch" : 0.33897656099999995
+  },
+  "338 Remington Ultra Magnum" : {
+    "name" : "338 Remington Ultra Magnum",
+    "names" : [ "338 Rem. Ultra Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page134.pdf" ],
+    "diameter_mm" : 8.6,
+    "diameter_inch" : 0.33858286
+  },
+  "338 Winchester Magnum" : {
+    "name" : "338 Winchester Magnum",
+    "names" : [ "338 Win. Mag." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page22.pdf" ],
+    "diameter_mm" : 8.61,
+    "diameter_inch" : 0.33897656099999995
+  },
+  "338 Winchester Short Magnum" : {
+    "name" : "338 Winchester Short Magnum",
+    "names" : [ "338 Win. Short Mag." ],
+    "specs" : {
+      "coal_mm" : 69.78,
+      "coal_inch" : 2.747245578
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page135.pdf" ],
+    "diameter_mm" : 8.69,
+    "diameter_inch" : 0.342126169
+  },
+  "338-378 Weatherby Mag" : {
+    "name" : "338-378 Weatherby Mag",
+    "names" : [ "338-378 Weath. Mag" ],
+    "specs" : {
+      "coal_mm" : 95.58,
+      "coal_inch" : 3.7629941579999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page23.pdf" ],
+    "diameter_mm" : 8.6,
+    "diameter_inch" : 0.33858286
+  },
+  "340 Weatherby Magnum" : {
+    "name" : "340 Weatherby Magnum",
+    "names" : [ "340 Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 93.35,
+      "coal_inch" : 3.6751988349999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page24.pdf" ],
+    "diameter_mm" : 8.59,
+    "diameter_inch" : 0.33818915899999996
+  },
+  "348 Winchester" : {
+    "name" : "348 Winchester",
+    "names" : [ "348 Win." ],
+    "specs" : {
+      "coal_mm" : 70.99,
+      "coal_inch" : 2.7948833989999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page85.pdf" ],
+    "diameter_mm" : 8.88,
+    "diameter_inch" : 0.349606488
+  },
+  "35 Remington" : {
+    "name" : "35 Remington",
+    "names" : [ "35 Rem." ],
+    "specs" : {
+      "coal_mm" : 64.14,
+      "coal_inch" : 2.525198214
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page136.pdf" ],
+    "diameter_mm" : 9.12,
+    "diameter_inch" : 0.35905531199999996
+  },
+  "35 Whelen" : {
+    "name" : "35 Whelen",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page137.pdf" ],
+    "diameter_mm" : 9.12,
+    "diameter_inch" : 0.35905531199999996
+  },
+  "35 Winchester" : {
+    "name" : "35 Winchester",
+    "names" : [ "35 Win." ],
+    "specs" : {
+      "coal_mm" : 80.65,
+      "coal_inch" : 3.175198565
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page86.pdf" ],
+    "diameter_mm" : 9.12,
+    "diameter_inch" : 0.35905531199999996
+  },
+  "35 Winchester Self-loading" : {
+    "name" : "35 Winchester Self-loading",
+    "names" : [ "35 Win. SL" ],
+    "specs" : {
+      "coal_mm" : 41.91,
+      "coal_inch" : 1.6500008909999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page87.pdf" ],
+    "diameter_mm" : 8.95,
+    "diameter_inch" : 0.35236239499999994
+  },
+  "350 Magnum Rigby" : {
+    "name" : "350 Magnum Rigby",
+    "names" : [ "350 Mag. Rigby" ],
+    "specs" : {
+      "coal_mm" : 90.8,
+      "coal_inch" : 3.5748050799999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page138.pdf" ],
+    "diameter_mm" : 9.07,
+    "diameter_inch" : 0.357086807
+  },
+  "350 No. 2 Rigby" : {
+    "name" : "350 No. 2 Rigby",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 93.73,
+      "coal_inch" : 3.690159473
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page88.pdf" ],
+    "diameter_mm" : 9.04,
+    "diameter_inch" : 0.35590570399999993
+  },
+  "350 Remington Magnum" : {
+    "name" : "350 Remington Magnum",
+    "names" : [ "350 Rem.Mag." ],
+    "specs" : {
+      "coal_mm" : 71.12,
+      "coal_inch" : 2.800001512
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page25.pdf" ],
+    "diameter_mm" : 9.12,
+    "diameter_inch" : 0.35905531199999996
+  },
+  "351 Winchester Self-loading" : {
+    "name" : "351 Winchester Self-loading",
+    "names" : [ "351 Win. SL" ],
+    "specs" : {
+      "coal_mm" : 48.26,
+      "coal_inch" : 1.9000010259999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/351-win-sl-en.pdf" ],
+    "diameter_mm" : 8.94,
+    "diameter_inch" : 0.35196869399999997
+  },
+  "356 Winchester" : {
+    "name" : "356 Winchester",
+    "names" : [ "356 Win." ],
+    "specs" : {
+      "coal_mm" : 65.02,
+      "coal_inch" : 2.559843902
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/356-win-en.pdf" ],
+    "diameter_mm" : 9.11,
+    "diameter_inch" : 0.35866161099999994
+  },
+  "358 Norma Magnum" : {
+    "name" : "358 Norma Magnum",
+    "names" : [ "358 Norma Mag." ],
+    "specs" : {
+      "coal_mm" : 85.0,
+      "coal_inch" : 3.3464585
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page26.pdf" ],
+    "diameter_mm" : 9.12,
+    "diameter_inch" : 0.35905531199999996
+  },
+  "358 Winchester" : {
+    "name" : "358 Winchester",
+    "names" : [ "358 Win." ],
+    "specs" : {
+      "coal_mm" : 70.61,
+      "coal_inch" : 2.779922761
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page139.pdf" ],
+    "diameter_mm" : 9.11,
+    "diameter_inch" : 0.35866161099999994
+  },
+  "360 Nitro Express 21/4" : {
+    "name" : "360 Nitro Express 21/4",
+    "names" : [ "360 N.E. 21/4" ],
+    "specs" : {
+      "coal_mm" : 76.2,
+      "coal_inch" : 3.00000162
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page91.pdf" ],
+    "diameter_mm" : 9.32,
+    "diameter_inch" : 0.366929332
+  },
+  "369 Nitro Express Purdey" : {
+    "name" : "369 Nitro Express Purdey",
+    "names" : [ "369 N.E. Purdey" ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page92.pdf" ],
+    "diameter_mm" : 9.52,
+    "diameter_inch" : 0.374803352
+  },
+  "375 Blaser Magnum" : {
+    "name" : "375 Blaser Magnum",
+    "names" : [ "375 Blaser Mag." ],
+    "specs" : {
+      "coal_mm" : 92.0,
+      "coal_inch" : 3.6220491999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page140.pdf" ],
+    "diameter_mm" : 9.53,
+    "diameter_inch" : 0.37519705299999995
+  },
+  "375 Chey Tac" : {
+    "name" : "375 Chey Tac",
+    "names" : [ "9,5 x 77" ],
+    "specs" : {
+      "coal_mm" : 113.4,
+      "coal_inch" : 4.46456934
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/375-chey-tac-170627-en.pdf" ],
+    "diameter_mm" : 9.52,
+    "diameter_inch" : 0.374803352
+  },
+  "375 Flanged Magnum Nitro Express" : {
+    "name" : "375 Flanged Magnum Nitro Express",
+    "names" : [ "375 H&H Fl. Mag. N.E.", "375 Fl. Mag. N.E." ],
+    "specs" : {
+      "coal_mm" : 96.52,
+      "coal_inch" : 3.8000020519999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/375-fi-mag-ne-en.pdf" ],
+    "diameter_mm" : 9.52,
+    "diameter_inch" : 0.374803352
+  },
+  "375 Flanged Nitro Express 21/2" : {
+    "name" : "375 Flanged Nitro Express 21/2",
+    "names" : [ "375 Fl. N.E. 21/2" ],
+    "specs" : {
+      "coal_mm" : 82.55,
+      "coal_inch" : 3.2500017549999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page93.pdf" ],
+    "diameter_mm" : 9.52,
+    "diameter_inch" : 0.374803352
+  },
+  "375 Holland & Holland Magnum" : {
+    "name" : "375 Holland & Holland Magnum",
+    "names" : [ "375 H&H Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page27.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  },
+  "375 Hölderlin" : {
+    "name" : "375 Hölderlin",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.0,
+      "coal_inch" : 3.4251986999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page141.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  },
+  "375 R Hölderlin" : {
+    "name" : "375 R Hölderlin",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.0,
+      "coal_inch" : 3.4251986999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page95.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  },
+  "375 R Verney-Carron" : {
+    "name" : "375 R Verney-Carron",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 92.25,
+      "coal_inch" : 3.631891725
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page96.pdf" ],
+    "diameter_mm" : 9.53,
+    "diameter_inch" : 0.37519705299999995
+  },
+  "375 Remington Ultra Magnum" : {
+    "name" : "375 Remington Ultra Magnum",
+    "names" : [ "375 Rem. Ultra Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page142.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  },
+  "375 Ruger" : {
+    "name" : "375 Ruger",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page143.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  },
+  "375 Weatherby Magnum" : {
+    "name" : "375 Weatherby Magnum",
+    "names" : [ "375 Weath.Mag." ],
+    "specs" : {
+      "coal_mm" : 90.5,
+      "coal_inch" : 3.56299405
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page28.pdf" ],
+    "diameter_mm" : 9.53,
+    "diameter_inch" : 0.37519705299999995
+  },
+  "375 Winchester" : {
+    "name" : "375 Winchester",
+    "names" : [ "375 Win." ],
+    "specs" : {
+      "coal_mm" : 65.02,
+      "coal_inch" : 2.559843902
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page97.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  },
+  "376 Steyr" : {
+    "name" : "376 Steyr",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 79.0,
+      "coal_inch" : 3.1102379
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page144.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  },
+  "378 Weatherby Magnum" : {
+    "name" : "378 Weatherby Magnum",
+    "names" : [ "378 Weath.Mag." ],
+    "specs" : {
+      "coal_mm" : 92.84,
+      "coal_inch" : 3.655120084
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page29.pdf" ],
+    "diameter_mm" : 9.53,
+    "diameter_inch" : 0.37519705299999995
+  },
+  "38-40 Winchester" : {
+    "name" : "38-40 Winchester",
+    "names" : [ "38-40 Win." ],
+    "specs" : {
+      "coal_mm" : 40.44,
+      "coal_inch" : 1.5921268439999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page98.pdf" ],
+    "diameter_mm" : 10.17,
+    "diameter_inch" : 0.400393917
+  },
+  "38-55 Winchester" : {
+    "name" : "38-55 Winchester",
+    "names" : [ "38-55 Win." ],
+    "specs" : {
+      "coal_mm" : 63.75,
+      "coal_inch" : 2.509843875
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page99.pdf" ],
+    "diameter_mm" : 9.58,
+    "diameter_inch" : 0.377165558
+  },
+  "380 Long Rifle" : {
+    "name" : "380 Long Rifle",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 34.04,
+      "coal_inch" : 1.340158204
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page100.pdf" ],
+    "diameter_mm" : 9.47,
+    "diameter_inch" : 0.372834847
+  },
+  "4 Bore Rifle" : {
+    "name" : "4 Bore Rifle",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 119.3,
+      "coal_inch" : 4.6968529299999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page132.pdf" ],
+    "diameter_mm" : 25.4,
+    "diameter_inch" : 1.0000005399999998
+  },
+  "4.6 x 30" : {
+    "name" : "4.6 x 30",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 38.5,
+      "coal_inch" : 1.51574885
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/4-6-x-30-en.pdf" ],
+    "diameter_mm" : 4.65,
+    "diameter_inch" : 0.183070965
+  },
+  "40-60 Winchester" : {
+    "name" : "40-60 Winchester",
+    "names" : [ "40-60 Win" ],
+    "specs" : {
+      "coal_mm" : 57.28,
+      "coal_inch" : 2.255119328
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page101.pdf" ],
+    "diameter_mm" : 10.31,
+    "diameter_inch" : 0.405905731
+  },
+  "40-65 Winchester" : {
+    "name" : "40-65 Winchester",
+    "names" : [ "40-65 Win." ],
+    "specs" : {
+      "coal_mm" : 62.74,
+      "coal_inch" : 2.470080074
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/40-65-win-170428-en.pdf" ],
+    "diameter_mm" : 10.31,
+    "diameter_inch" : 0.405905731
+  },
+  "40-82 Winchester" : {
+    "name" : "40-82 Winchester",
+    "names" : [ "40-82 Win." ],
+    "specs" : {
+      "coal_mm" : 70.23,
+      "coal_inch" : 2.764962123
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page102.pdf" ],
+    "diameter_mm" : 10.35,
+    "diameter_inch" : 0.407480535
+  },
+  "400 Holland & Holland Belted Magnum" : {
+    "name" : "400 Holland & Holland Belted Magnum",
+    "names" : [ "400 H&H Belt. Mag." ],
+    "specs" : {
+      "coal_mm" : 90.0,
+      "coal_inch" : 3.543309
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page30.pdf" ],
+    "diameter_mm" : 10.44,
+    "diameter_inch" : 0.41102384399999997
+  },
+  "400 Purdey 3”" : {
+    "name" : "400 Purdey 3”",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page103.pdf" ],
+    "diameter_mm" : 10.29,
+    "diameter_inch" : 0.40511832899999994
+  },
+  "400/350 Nitro Express" : {
+    "name" : "400/350 Nitro Express",
+    "names" : [ "400/350 N.E." ],
+    "specs" : {
+      "coal_mm" : 93.73,
+      "coal_inch" : 3.690159473
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page104.pdf" ],
+    "diameter_mm" : 9.04,
+    "diameter_inch" : 0.35590570399999993
+  },
+  "401 Winchester Self-loading" : {
+    "name" : "401 Winchester Self-loading",
+    "names" : [ "401 Win. SL" ],
+    "specs" : {
+      "coal_mm" : 50.93,
+      "coal_inch" : 2.005119193
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page105.pdf" ],
+    "diameter_mm" : 10.34,
+    "diameter_inch" : 0.40708683399999995
+  },
+  "404 Rimless Nitro Express" : {
+    "name" : "404 Rimless Nitro Express",
+    "names" : [ "404 Riml. N.E." ],
+    "specs" : {
+      "coal_mm" : 89.66,
+      "coal_inch" : 3.5299231659999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page145.pdf" ],
+    "diameter_mm" : 10.72,
+    "diameter_inch" : 0.422047472
+  },
+  "405 Winchester" : {
+    "name" : "405 Winchester",
+    "names" : [ "405 Win." ],
+    "specs" : {
+      "coal_mm" : 80.64,
+      "coal_inch" : 3.174804864
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page106.pdf" ],
+    "diameter_mm" : 10.45,
+    "diameter_inch" : 0.41141754499999994
+  },
+  "408 Chey Tac" : {
+    "name" : "408 Chey Tac",
+    "names" : [ "10,36 x 77 mm" ],
+    "specs" : {
+      "coal_mm" : 115.5,
+      "coal_inch" : 4.54724655
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/408-chey-tac-en.pdf" ],
+    "diameter_mm" : 10.36,
+    "diameter_inch" : 0.40787423599999995
+  },
+  "408 Winchester" : {
+    "name" : "408 Winchester",
+    "names" : [ "408 Win." ],
+    "specs" : {
+      "coal_mm" : 65.53,
+      "coal_inch" : 2.579922653
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page107.pdf" ],
+    "diameter_mm" : 10.31,
+    "diameter_inch" : 0.405905731
+  },
+  "416 A-TEC" : {
+    "name" : "416 A-TEC",
+    "names" : [ "416 A-SUB" ],
+    "specs" : {
+      "coal_mm" : 71.0,
+      "coal_inch" : 2.7952771
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/416-a-tec-en.pdf" ],
+    "diameter_mm" : 10.57,
+    "diameter_inch" : 0.416141957
+  },
+  "416 Barrett" : {
+    "name" : "416 Barrett",
+    "names" : [ "10,4 x 83" ],
+    "specs" : {
+      "coal_mm" : 118.11,
+      "coal_inch" : 4.650002510999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/416-barrett-en.pdf" ],
+    "diameter_mm" : 10.57,
+    "diameter_inch" : 0.416141957
+  },
+  "416 Remington Magnum" : {
+    "name" : "416 Remington Magnum",
+    "names" : [ "416 Rem. Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page31.pdf" ],
+    "diameter_mm" : 10.57,
+    "diameter_inch" : 0.416141957
+  },
+  "416 Rigby" : {
+    "name" : "416 Rigby",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 95.25,
+      "coal_inch" : 3.7500020249999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page146.pdf" ],
+    "diameter_mm" : 10.57,
+    "diameter_inch" : 0.416141957
+  },
+  "416 Ruger" : {
+    "name" : "416 Ruger",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page147.pdf" ],
+    "diameter_mm" : 10.58,
+    "diameter_inch" : 0.416535658
+  },
+  "416 Taylor" : { },
+  "416 Taylor Magnum" : {
+    "name" : "416 Taylor Magnum",
+    "names" : [ "416 Taylor Mag." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/416-taylor-mag-en.pdf" ],
+    "diameter_mm" : 10.57,
+    "diameter_inch" : 0.416141957
+  },
+  "416 Weatherby Magnum" : {
+    "name" : "416 Weatherby Magnum",
+    "names" : [ "416 Weath.Mag." ],
+    "specs" : {
+      "coal_mm" : 95.25,
+      "coal_inch" : 3.7500020249999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page33.pdf" ],
+    "diameter_mm" : 10.57,
+    "diameter_inch" : 0.416141957
+  },
+  "44-40 Winchester" : {
+    "name" : "44-40 Winchester",
+    "names" : [ "44-40 Win." ],
+    "specs" : {
+      "coal_mm" : 40.44,
+      "coal_inch" : 1.5921268439999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page108.pdf" ],
+    "diameter_mm" : 10.85,
+    "diameter_inch" : 0.42716558499999996
+  },
+  "444 Marlin" : {
+    "name" : "444 Marlin",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 65.28,
+      "coal_inch" : 2.570080128
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page109.pdf" ],
+    "diameter_mm" : 10.93,
+    "diameter_inch" : 0.430315193
+  },
+  "45 Blaser" : {
+    "name" : "45 Blaser",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 68.5,
+      "coal_inch" : 2.69685185
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page148.pdf" ],
+    "diameter_mm" : 11.64,
+    "diameter_inch" : 0.458267964
+  },
+  "45-110 Sharps 2\" 7/8" : {
+    "name" : "45-110 Sharps 2\" 7/8",
+    "names" : [ "45-110 Sharps 2\"7/8" ],
+    "specs" : {
+      "coal_mm" : 85.3,
+      "coal_inch" : 3.35826953
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/45-110-sharps-170428-en.pdf" ],
+    "diameter_mm" : 11.63,
+    "diameter_inch" : 0.457874263
+  },
+  "45-120 Sharps 3\" 1/4" : {
+    "name" : "45-120 Sharps 3\" 1/4",
+    "names" : [ "45-120 Sharps 3\"1/4" ],
+    "specs" : {
+      "coal_mm" : 105.66,
+      "coal_inch" : 4.159844766
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/45-120-sharps-170428-en.pdf" ],
+    "diameter_mm" : 11.63,
+    "diameter_inch" : 0.457874263
+  },
+  "45-60 Winchester" : {
+    "name" : "45-60 Winchester",
+    "names" : [ "45-60 Win" ],
+    "specs" : {
+      "coal_mm" : 57.28,
+      "coal_inch" : 2.255119328
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page110.pdf" ],
+    "diameter_mm" : 11.66,
+    "diameter_inch" : 0.45905536599999996
+  },
+  "45-70 Elko Magnum" : {
+    "name" : "45-70 Elko Magnum",
+    "names" : [ "45-70 Elko Mag." ],
+    "specs" : {
+      "coal_mm" : 87.3,
+      "coal_inch" : 3.4370097299999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page111.pdf" ],
+    "diameter_mm" : 11.66,
+    "diameter_inch" : 0.45905536599999996
+  },
+  "45-70 Government" : {
+    "name" : "45-70 Government",
+    "names" : [ "45-70 Govt." ],
+    "specs" : {
+      "coal_mm" : 64.77,
+      "coal_inch" : 2.5500013769999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page112.pdf" ],
+    "diameter_mm" : 11.63,
+    "diameter_inch" : 0.457874263
+  },
+  "45-75 Winchester" : {
+    "name" : "45-75 Winchester",
+    "names" : [ "45-75 Win" ],
+    "specs" : {
+      "coal_mm" : 57.28,
+      "coal_inch" : 2.255119328
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page113.pdf" ],
+    "diameter_mm" : 11.66,
+    "diameter_inch" : 0.45905536599999996
+  },
+  "45-90 WM" : {
+    "name" : "45-90 WM",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page114.pdf" ],
+    "diameter_mm" : 11.63,
+    "diameter_inch" : 0.457874263
+  },
+  "450 Bushmaster" : {
+    "name" : "450 Bushmaster",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 57.4,
+      "coal_inch" : 2.25984374
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page149.pdf" ],
+    "diameter_mm" : 11.49,
+    "diameter_inch" : 0.452362449
+  },
+  "450 Marlin" : {
+    "name" : "450 Marlin",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 64.76,
+      "coal_inch" : 2.549607676
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page34.pdf" ],
+    "diameter_mm" : 11.64,
+    "diameter_inch" : 0.458267964
+  },
+  "450 Nitro Express 3\" 1/4" : {
+    "name" : "450 Nitro Express 3\" 1/4",
+    "names" : [ "450 N.E. 3\" 1/4" ],
+    "specs" : {
+      "coal_mm" : 100.33,
+      "coal_inch" : 3.950002133
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/450-ne-3-1-4-en.pdf" ],
+    "diameter_mm" : 11.63,
+    "diameter_inch" : 0.457874263
+  },
+  "450 N° 2 Nitro Express 3\" 1/2 Eley" : {
+    "name" : "450 N° 2 Nitro Express 3\" 1/2 Eley",
+    "names" : [ "450 N° 2 N.E. 3“1/2Eley" ],
+    "specs" : {
+      "coal_mm" : 109.98,
+      "coal_inch" : 4.329923598
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page116.pdf" ],
+    "diameter_mm" : 11.63,
+    "diameter_inch" : 0.457874263
+  },
+  "450 Rigby" : {
+    "name" : "450 Rigby",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 95.25,
+      "coal_inch" : 3.7500020249999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/450-rigby-en.pdf" ],
+    "diameter_mm" : 11.66,
+    "diameter_inch" : 0.45905536599999996
+  },
+  "450/400 Magnum Nitro Express 31/4" : {
+    "name" : "450/400 Magnum Nitro Express 31/4",
+    "names" : [ "450/400 Mag. N.E. 31/4" ],
+    "specs" : {
+      "coal_mm" : 100.33,
+      "coal_inch" : 3.950002133
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page118.pdf" ],
+    "diameter_mm" : 10.41,
+    "diameter_inch" : 0.409842741
+  },
+  "450/400 Nitro Express 3" : {
+    "name" : "450/400 Nitro Express 3",
+    "names" : [ "450/400 N.E. 3" ],
+    "specs" : {
+      "coal_mm" : 95.25,
+      "coal_inch" : 3.7500020249999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page117.pdf" ],
+    "diameter_mm" : 10.41,
+    "diameter_inch" : 0.409842741
+  },
+  "458 Lott" : {
+    "name" : "458 Lott",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/458-lott-en.pdf" ],
+    "diameter_mm" : 11.66,
+    "diameter_inch" : 0.45905536599999996
+  },
+  "458 Winchester Magnum" : {
+    "name" : "458 Winchester Magnum",
+    "names" : [ "458 Win. Mag." ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page36.pdf" ],
+    "diameter_mm" : 11.66,
+    "diameter_inch" : 0.45905536599999996
+  },
+  "460 Steyr" : {
+    "name" : "460 Steyr",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 140.0,
+      "coal_inch" : 5.511813999999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page151.pdf" ],
+    "diameter_mm" : 11.65,
+    "diameter_inch" : 0.458661665
+  },
+  "460 Weatherby Magnum" : {
+    "name" : "460 Weatherby Magnum",
+    "names" : [ "460 Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 95.25,
+      "coal_inch" : 3.7500020249999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page37.pdf" ],
+    "diameter_mm" : 11.64,
+    "diameter_inch" : 0.458267964
+  },
+  "465 Holland & Holland Belted Magnum" : {
+    "name" : "465 Holland & Holland Belted Magnum",
+    "names" : [ "465 H&H Belt. Mag." ],
+    "specs" : {
+      "coal_mm" : 90.0,
+      "coal_inch" : 3.543309
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page38.pdf" ],
+    "diameter_mm" : 11.89,
+    "diameter_inch" : 0.468110489
+  },
+  "470 Nitro Express" : {
+    "name" : "470 Nitro Express",
+    "names" : [ "470 N.E." ],
+    "specs" : {
+      "coal_mm" : 101.09,
+      "coal_inch" : 3.979923409
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/470-ne-en.pdf" ],
+    "diameter_mm" : 12.04,
+    "diameter_inch" : 0.47401600399999994
+  },
+  "475 N° 2 Nitro Express 3\" 1/2 Jeffery" : {
+    "name" : "475 N° 2 Nitro Express 3\" 1/2 Jeffery",
+    "names" : [ "475 N° 2 N.E. 3“1/2 Jeffery" ],
+    "specs" : {
+      "coal_mm" : 109.98,
+      "coal_inch" : 4.329923598
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page121.pdf" ],
+    "diameter_mm" : 12.39,
+    "diameter_inch" : 0.487795539
+  },
+  "475 N° 2 Nitro Express 31/2" : {
+    "name" : "475 N° 2 Nitro Express 31/2",
+    "names" : [ "475 N° 2 N.E. 31/2" ],
+    "specs" : {
+      "coal_mm" : 109.98,
+      "coal_inch" : 4.329923598
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page120.pdf" ],
+    "diameter_mm" : 12.27,
+    "diameter_inch" : 0.48307112699999993
+  },
+  "5.45 x 39" : {
+    "name" : "5.45 x 39",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 57.0,
+      "coal_inch" : 2.2440957
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/5-45-x-39-en.pdf" ],
+    "diameter_mm" : 5.6,
+    "diameter_inch" : 0.22047255999999998
+  },
+  "5.6 x 35 R" : {
+    "name" : "5.6 x 35 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 43.5,
+      "coal_inch" : 1.7125993499999999
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page1.pdf" ],
+    "diameter_mm" : 5.63,
+    "diameter_inch" : 0.22165366299999997
+  },
+  "5.6 x 39" : {
+    "name" : "5.6 x 39",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 48.7,
+      "coal_inch" : 1.91732387
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page3.pdf" ],
+    "diameter_mm" : 5.67,
+    "diameter_inch" : 0.22322846699999999
+  },
+  "5.6 x 50 Magnum" : {
+    "name" : "5.6 x 50 Magnum",
+    "names" : [ "5.6 x 50 Mag." ],
+    "specs" : {
+      "coal_mm" : 61.3,
+      "coal_inch" : 2.41338713
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page4.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "5.6 x 50 R Magnum" : {
+    "name" : "5.6 x 50 R Magnum",
+    "names" : [ "5.6 x 50 R Mag." ],
+    "specs" : {
+      "coal_mm" : 61.0,
+      "coal_inch" : 2.4015760999999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page2.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "5.6 x 52 R" : {
+    "name" : "5.6 x 52 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 63.75,
+      "coal_inch" : 2.509843875
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page3.pdf" ],
+    "diameter_mm" : 5.79,
+    "diameter_inch" : 0.227952879
+  },
+  "5.6 x 57" : {
+    "name" : "5.6 x 57",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 69.0,
+      "coal_inch" : 2.7165369
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page5.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "5.6 x 57 R" : {
+    "name" : "5.6 x 57 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 69.0,
+      "coal_inch" : 2.7165369
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page4.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "5.6 x 61 R Super Express Vom Hofe" : {
+    "name" : "5.6 x 61 R Super Express Vom Hofe",
+    "names" : [ "5.6 x 61 R SE v. H." ],
+    "specs" : {
+      "coal_mm" : 80.0,
+      "coal_inch" : 3.1496079999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page5.pdf" ],
+    "diameter_mm" : 5.76,
+    "diameter_inch" : 0.22677177599999998
+  },
+  "5.6 x 61 Super Express Vom Hofe" : {
+    "name" : "5.6 x 61 Super Express Vom Hofe",
+    "names" : [ "5.6 x 61 SE v. H." ],
+    "specs" : {
+      "coal_mm" : 80.0,
+      "coal_inch" : 3.1496079999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page6.pdf" ],
+    "diameter_mm" : 5.79,
+    "diameter_inch" : 0.227952879
+  },
+  "5.6 x 70 R" : {
+    "name" : "5.6 x 70 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.0,
+      "coal_inch" : 3.4251986999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page6.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "5.7 x 28" : {
+    "name" : "5.7 x 28",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 40.5,
+      "coal_inch" : 1.59448905
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page7.pdf" ],
+    "diameter_mm" : 5.7,
+    "diameter_inch" : 0.22440957
+  },
+  "50 Browning" : {
+    "name" : "50 Browning",
+    "names" : [ "12,7 x 99" ],
+    "specs" : {
+      "coal_mm" : 138.43,
+      "coal_inch" : 5.450002943
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/50-browning-en.pdf" ],
+    "diameter_mm" : 12.98,
+    "diameter_inch" : 0.511023898
+  },
+  "50-70 Government" : {
+    "name" : "50-70 Government",
+    "names" : [ "50-70 Musket", "50-70 Govt." ],
+    "specs" : {
+      "coal_mm" : 57.15,
+      "coal_inch" : 2.2500012149999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/50-70-govt-170428-en.pdf" ],
+    "diameter_mm" : 13.08,
+    "diameter_inch" : 0.5149609079999999
+  },
+  "50-90 Sharps 2\" 1/2" : {
+    "name" : "50-90 Sharps 2\" 1/2",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 81.28,
+      "coal_inch" : 3.2000017279999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/50-90-sharps-170309-en.pdf" ],
+    "diameter_mm" : 13.08,
+    "diameter_inch" : 0.5149609079999999
+  },
+  "50-95 Winchester" : {
+    "name" : "50-95 Winchester",
+    "names" : [ "50-95 Win." ],
+    "specs" : {
+      "coal_mm" : 57.4,
+      "coal_inch" : 2.25984374
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page122.pdf" ],
+    "diameter_mm" : 13.03,
+    "diameter_inch" : 0.5129924029999999
+  },
+  "500 Jeffery" : {
+    "name" : "500 Jeffery",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 88.09,
+      "coal_inch" : 3.4681121089999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page153.pdf" ],
+    "diameter_mm" : 12.95,
+    "diameter_inch" : 0.509842795
+  },
+  "500 Nitro Express 3\"" : {
+    "name" : "500 Nitro Express 3\"",
+    "names" : [ "500 N.E. 3\"" ],
+    "specs" : {
+      "coal_mm" : 95.25,
+      "coal_inch" : 3.7500020249999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/500-n-e-3-en.pdf" ],
+    "diameter_mm" : 12.95,
+    "diameter_inch" : 0.509842795
+  },
+  "500/416 Nitro Express 3\" 1/4" : {
+    "name" : "500/416 Nitro Express 3\" 1/4",
+    "names" : [ "500/416 N.E. 3“1/4" ],
+    "specs" : {
+      "coal_mm" : 101.09,
+      "coal_inch" : 3.979923409
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page124.pdf" ],
+    "diameter_mm" : 10.57,
+    "diameter_inch" : 0.416141957
+  },
+  "500/465 Nitro Express" : {
+    "name" : "500/465 Nitro Express",
+    "names" : [ "500/465 N.E." ],
+    "specs" : {
+      "coal_mm" : 99.06,
+      "coal_inch" : 3.900002106
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page125.pdf" ],
+    "diameter_mm" : 11.89,
+    "diameter_inch" : 0.468110489
+  },
+  "505 Magnum Gibbs" : {
+    "name" : "505 Magnum Gibbs",
+    "names" : [ "505 Mag. Gibbs" ],
+    "specs" : {
+      "coal_mm" : 97.79,
+      "coal_inch" : 3.8500020790000002
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page154.pdf" ],
+    "diameter_mm" : 12.83,
+    "diameter_inch" : 0.505118383
+  },
+  "510 DTC" : {
+    "name" : "510 DTC",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 137.47,
+      "coal_inch" : 5.412207647
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page155.pdf" ],
+    "diameter_mm" : 12.98,
+    "diameter_inch" : 0.511023898
+  },
+  "56/50 Spencer" : {
+    "name" : "56/50 Spencer",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 38.56,
+      "coal_inch" : 1.518111056
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page126.pdf" ],
+    "diameter_mm" : 13.0,
+    "diameter_inch" : 0.5118113
+  },
+  "577 Nitro Express 3\"" : {
+    "name" : "577 Nitro Express 3\"",
+    "names" : [ "577 N.E. 3\"" ],
+    "specs" : {
+      "coal_mm" : 93.98,
+      "coal_inch" : 3.700001998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/577-ne-3-en.pdf" ],
+    "diameter_mm" : 14.83,
+    "diameter_inch" : 0.5838585829999999
+  },
+  "577 Sld. Snider" : {
+    "name" : "577 Sld. Snider",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 62.74,
+      "coal_inch" : 2.470080074
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page129.pdf" ],
+    "diameter_mm" : 14.58,
+    "diameter_inch" : 0.574016058
+  },
+  "577/450 Sld. Martini–Henry" : {
+    "name" : "577/450 Sld. Martini–Henry",
+    "names" : [ "577/450 Sld. Mart.H." ],
+    "specs" : {
+      "coal_mm" : 81.28,
+      "coal_inch" : 3.2000017279999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page127.pdf" ],
+    "diameter_mm" : 11.81,
+    "diameter_inch" : 0.464960881
+  },
+  "5mm / 35 SMc" : {
+    "name" : "5mm / 35 SMc",
+    "names" : [ "5 mm / 35 SMc" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page1.pdf" ]
+  },
+  "6 XC" : {
+    "name" : "6 XC",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 70.0,
+      "coal_inch" : 2.7559069999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page17.pdf" ],
+    "diameter_mm" : 6.18,
+    "diameter_inch" : 0.24330721799999996
+  },
+  "6 x 47 ATZL" : {
+    "name" : "6 x 47 ATZL",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 63.0,
+      "coal_inch" : 2.4803162999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-x-47-atzl-en.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6 x 47 SM" : {
+    "name" : "6 x 47 SM",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 66.0,
+      "coal_inch" : 2.5984266
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page9.pdf" ],
+    "diameter_mm" : 6.18,
+    "diameter_inch" : 0.24330721799999996
+  },
+  "6 x 50 R Scheiring" : {
+    "name" : "6 x 50 R Scheiring",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 69.0,
+      "coal_inch" : 2.7165369
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page7.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6 x 51 ATZL" : {
+    "name" : "6 x 51 ATZL",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 68.0,
+      "coal_inch" : 2.6771667999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page10.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6 x 52 R BB2" : {
+    "name" : "6 x 52 R BB2",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 69.0,
+      "coal_inch" : 2.7165369
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page8.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6 x 52 R Bretschneider" : {
+    "name" : "6 x 52 R Bretschneider",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 68.5,
+      "coal_inch" : 2.69685185
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page9.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6 x 62 Freres" : {
+    "name" : "6 x 62 Freres",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page11.pdf" ],
+    "diameter_mm" : 6.18,
+    "diameter_inch" : 0.24330721799999996
+  },
+  "6 x 62 R Freres" : {
+    "name" : "6 x 62 R Freres",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page10.pdf" ],
+    "diameter_mm" : 6.18,
+    "diameter_inch" : 0.24330721799999996
+  },
+  "6 x 70 R" : {
+    "name" : "6 x 70 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.0,
+      "coal_inch" : 3.4251986999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page11.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6.3 x 57 Farè" : {
+    "name" : "6.3 x 57 Farè",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 75.0,
+      "coal_inch" : 2.9527574999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-3-x-57-fare-en.pdf" ],
+    "diameter_mm" : 6.52,
+    "diameter_inch" : 0.256693052
+  },
+  "6.5 - 284 Norma" : {
+    "name" : "6.5 - 284 Norma",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page18.pdf" ],
+    "diameter_mm" : 6.71,
+    "diameter_inch" : 0.264173371
+  },
+  "6.5 Creedmoor" : {
+    "name" : "6.5 Creedmoor",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 71.76,
+      "coal_inch" : 2.825198376
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-creedmoor-en.pdf" ],
+    "diameter_mm" : 6.72,
+    "diameter_inch" : 0.26456707199999996
+  },
+  "6.5 Grendel" : {
+    "name" : "6.5 Grendel",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6.pdf" ]
+  },
+  "6.5 x 39" : {
+    "name" : "6.5 x 39",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 56.0,
+      "coal_inch" : 2.2047255999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-x-39-en.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 47 Lapua" : {
+    "name" : "6.5 x 47 Lapua",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 71.0,
+      "coal_inch" : 2.7952771
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-x-47-lapua-en.pdf" ],
+    "diameter_mm" : 6.71,
+    "diameter_inch" : 0.264173371
+  },
+  "6.5 x 50 R" : {
+    "name" : "6.5 x 50 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 68.0,
+      "coal_inch" : 2.6771667999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page12.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 51 R (Arisaka)" : {
+    "name" : "6.5 x 51 R (Arisaka)",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 76.0,
+      "coal_inch" : 2.9921276
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/6-5-x-51-r-arisaka-en.pdf" ],
+    "diameter_mm" : 6.63,
+    "diameter_inch" : 0.26102376299999996
+  },
+  "6.5 x 52 Carcano" : {
+    "name" : "6.5 x 52 Carcano",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 76.5,
+      "coal_inch" : 3.01181265
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-x-52-carcano-en.pdf" ],
+    "diameter_mm" : 6.8,
+    "diameter_inch" : 0.26771668
+  },
+  "6.5 x 52 R" : {
+    "name" : "6.5 x 52 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 64.5,
+      "coal_inch" : 2.53937145
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page14.pdf" ],
+    "diameter_mm" : 6.58,
+    "diameter_inch" : 0.259055258
+  },
+  "6.5 x 52 R Keller & Simmann" : {
+    "name" : "6.5 x 52 R Keller & Simmann",
+    "names" : [ "6.5 x 52 R K&S" ],
+    "specs" : {
+      "coal_mm" : 71.12,
+      "coal_inch" : 2.800001512
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/6-5-x-52-r-k-s-en.pdf" ],
+    "diameter_mm" : 6.72,
+    "diameter_inch" : 0.26456707199999996
+  },
+  "6.5 x 54 Mannlicher–Schönauer" : {
+    "name" : "6.5 x 54 Mannlicher–Schönauer",
+    "names" : [ "6.5 x 54 M.-Sch." ],
+    "specs" : {
+      "coal_mm" : 77.8,
+      "coal_inch" : 3.0629937799999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page22.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 54 Mauser" : {
+    "name" : "6.5 x 54 Mauser",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 68.0,
+      "coal_inch" : 2.6771667999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page21.pdf" ],
+    "diameter_mm" : 6.64,
+    "diameter_inch" : 0.261417464
+  },
+  "6.5 x 55 SE" : {
+    "name" : "6.5 x 55 SE",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 80.0,
+      "coal_inch" : 3.1496079999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-x-55-se-en.pdf" ],
+    "diameter_mm" : 6.71,
+    "diameter_inch" : 0.264173371
+  },
+  "6.5 x 55 T.R.I." : {
+    "name" : "6.5 x 55 T.R.I.",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-x-55-t.pdf" ]
+  },
+  "6.5 x 57" : {
+    "name" : "6.5 x 57",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page24.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 57 R" : {
+    "name" : "6.5 x 57 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page15.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 58 Mauser" : {
+    "name" : "6.5 x 58 Mauser",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.5,
+      "coal_inch" : 3.2480332499999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page25.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 58 R" : {
+    "name" : "6.5 x 58 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.0,
+      "coal_inch" : 3.0708678
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page16.pdf" ],
+    "diameter_mm" : 6.64,
+    "diameter_inch" : 0.261417464
+  },
+  "6.5 x 63 Messner Magnum" : {
+    "name" : "6.5 x 63 Messner Magnum",
+    "names" : [ "6.5 x 63 Messner Mag." ],
+    "specs" : {
+      "coal_mm" : 84.5,
+      "coal_inch" : 3.3267734499999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page26.pdf" ],
+    "diameter_mm" : 6.71,
+    "diameter_inch" : 0.264173371
+  },
+  "6.5 x 64" : {
+    "name" : "6.5 x 64",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.0,
+      "coal_inch" : 3.3070884
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page27.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 64 Brenneke" : {
+    "name" : "6.5 x 64 Brenneke",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.84,
+      "coal_inch" : 3.340159284
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-x-64-brenneke-en.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 65 R Rheinisch-Westfälischen Sprengstoff-Fabriken" : {
+    "name" : "6.5 x 65 R Rheinisch-Westfälischen Sprengstoff-Fabriken",
+    "names" : [ "6.5 x 65 R RWS" ],
+    "specs" : {
+      "coal_mm" : 85.0,
+      "coal_inch" : 3.3464585
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page17.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 65 Rheinisch-Westfälischen Sprengstoff-Fabriken" : {
+    "name" : "6.5 x 65 Rheinisch-Westfälischen Sprengstoff-Fabriken",
+    "names" : [ "6.5 x 65 RWS" ],
+    "specs" : {
+      "coal_mm" : 85.0,
+      "coal_inch" : 3.3464585
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page29.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 68" : {
+    "name" : "6.5 x 68",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 86.5,
+      "coal_inch" : 3.40551365
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page30.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 68 R" : {
+    "name" : "6.5 x 68 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.5,
+      "coal_inch" : 3.44488375
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page18.pdf" ],
+    "diameter_mm" : 6.7,
+    "diameter_inch" : 0.26377967
+  },
+  "6.5 x 70 R" : {
+    "name" : "6.5 x 70 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 90.0,
+      "coal_inch" : 3.543309
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page19.pdf" ],
+    "diameter_mm" : 6.64,
+    "diameter_inch" : 0.261417464
+  },
+  "6.5mm D.B.G." : {
+    "name" : "6.5mm D.B.G.",
+    "names" : [ "6.5 mm D.B.G." ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-mm-d.pdf" ]
+  },
+  "6.5mm Lahoz" : {
+    "name" : "6.5mm Lahoz",
+    "names" : [ "6.5 mm Lahoz" ],
+    "specs" : {
+      "coal_mm" : 57.4,
+      "coal_inch" : 2.25984374
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-5-mm-lahoz-en.pdf" ],
+    "diameter_mm" : 6.71,
+    "diameter_inch" : 0.264173371
+  },
+  "6.5mm Remington Magnum" : {
+    "name" : "6.5mm Remington Magnum",
+    "names" : [ "6.5 mm Rem. Mag." ],
+    "specs" : {
+      "coal_mm" : 71.12,
+      "coal_inch" : 2.800001512
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page1.pdf" ],
+    "diameter_mm" : 6.72,
+    "diameter_inch" : 0.26456707199999996
+  },
+  "6.8mm Remington Special Purpose Cartridge" : {
+    "name" : "6.8mm Remington Special Purpose Cartridge",
+    "names" : [ "6.8 mm Rem. SPC" ],
+    "specs" : {
+      "coal_mm" : 57.4,
+      "coal_inch" : 2.25984374
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page31.pdf" ],
+    "diameter_mm" : 7.06,
+    "diameter_inch" : 0.27795290599999994
+  },
+  "600 Nitro Express" : {
+    "name" : "600 Nitro Express",
+    "names" : [ "600 N.E." ],
+    "specs" : {
+      "coal_mm" : 93.98,
+      "coal_inch" : 3.700001998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page130.pdf" ],
+    "diameter_mm" : 15.75,
+    "diameter_inch" : 0.6200790749999999
+  },
+  "6mm Bench Rest Farè" : {
+    "name" : "6mm Bench Rest Farè",
+    "names" : [ "6 mm BR Farè" ],
+    "specs" : {
+      "coal_mm" : 62.0,
+      "coal_inch" : 2.4409462
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-mm-br-fare-en.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6mm Bench Rest Norma" : {
+    "name" : "6mm Bench Rest Norma",
+    "names" : [ "6 mm BR Norma" ],
+    "specs" : {
+      "coal_mm" : 62.0,
+      "coal_inch" : 2.4409462
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page12.pdf" ],
+    "diameter_mm" : 6.18,
+    "diameter_inch" : 0.24330721799999996
+  },
+  "6mm Bench Rest Remington" : {
+    "name" : "6mm Bench Rest Remington",
+    "names" : [ "6 mm B.R. Rem." ],
+    "specs" : {
+      "coal_mm" : 55.88,
+      "coal_inch" : 2.200001188
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page13.pdf" ],
+    "diameter_mm" : 6.18,
+    "diameter_inch" : 0.24330721799999996
+  },
+  "6mm D.B.G." : {
+    "name" : "6mm D.B.G.",
+    "names" : [ "6 mm D.B.G." ],
+    "specs" : {
+      "coal_mm" : 58.0,
+      "coal_inch" : 2.2834658
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-mm-dbg-en.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6mm Palmisano & Pindel Cartridge" : {
+    "name" : "6mm Palmisano & Pindel Cartridge",
+    "names" : [ "6 mm PPC" ],
+    "specs" : {
+      "coal_mm" : 55.7,
+      "coal_inch" : 2.19291457
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page14.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6mm Palmisano & Pindel Cartridge ITA" : {
+    "name" : "6mm Palmisano & Pindel Cartridge ITA",
+    "names" : [ "6 mm PPC ITA" ],
+    "specs" : {
+      "coal_mm" : 55.7,
+      "coal_inch" : 2.19291457
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/6-mm-ppc-ita-en.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6mm Palmisano & Pindel Cartridge-USA" : {
+    "name" : "6mm Palmisano & Pindel Cartridge-USA",
+    "names" : [ "6 mm PPC-USA" ],
+    "specs" : {
+      "coal_mm" : 55.7,
+      "coal_inch" : 2.19291457
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page15.pdf" ],
+    "diameter_mm" : 6.17,
+    "diameter_inch" : 0.242913517
+  },
+  "6mm Remington (244 Remington)" : {
+    "name" : "6mm Remington (244 Remington)",
+    "names" : [ "6 mm Rem. (244 Rem.)" ],
+    "specs" : {
+      "coal_mm" : 71.76,
+      "coal_inch" : 2.825198376
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page16.pdf" ],
+    "diameter_mm" : 6.18,
+    "diameter_inch" : 0.24330721799999996
+  },
+  "7 x 33 Sako" : {
+    "name" : "7 x 33 Sako",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 44.44,
+      "coal_inch" : 1.749607244
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page32.pdf" ],
+    "diameter_mm" : 7.26,
+    "diameter_inch" : 0.285826926
+  },
+  "7 x 44 Penna" : {
+    "name" : "7 x 44 Penna",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 60.0,
+      "coal_inch" : 2.362206
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/7-x-44-penna-en.pdf" ],
+    "diameter_mm" : 7.04,
+    "diameter_inch" : 0.277165504
+  },
+  "7 x 50 R" : {
+    "name" : "7 x 50 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 68.0,
+      "coal_inch" : 2.6771667999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page21.pdf" ],
+    "diameter_mm" : 7.25,
+    "diameter_inch" : 0.285433225
+  },
+  "7 x 57" : {
+    "name" : "7 x 57",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.0,
+      "coal_inch" : 3.0708678
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page33.pdf" ],
+    "diameter_mm" : 7.25,
+    "diameter_inch" : 0.285433225
+  },
+  "7 x 57 R" : {
+    "name" : "7 x 57 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.0,
+      "coal_inch" : 3.0708678
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/7-x-57-r-en.pdf" ],
+    "diameter_mm" : 7.25,
+    "diameter_inch" : 0.285433225
+  },
+  "7 x 61 Super" : {
+    "name" : "7 x 61 Super",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 83.0,
+      "coal_inch" : 3.2677183
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/7-x-61-super-en.pdf" ],
+    "diameter_mm" : 7.2,
+    "diameter_inch" : 0.28346472
+  },
+  "7 x 64" : {
+    "name" : "7 x 64",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.0,
+      "coal_inch" : 3.3070884
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page34.pdf" ],
+    "diameter_mm" : 7.25,
+    "diameter_inch" : 0.285433225
+  },
+  "7 x 65 R" : {
+    "name" : "7 x 65 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 83.6,
+      "coal_inch" : 3.2913403599999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page24.pdf" ],
+    "diameter_mm" : 7.25,
+    "diameter_inch" : 0.285433225
+  },
+  "7 x 67 R Luyven" : {
+    "name" : "7 x 67 R Luyven",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 90.0,
+      "coal_inch" : 3.543309
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page25.pdf" ],
+    "diameter_mm" : 7.25,
+    "diameter_inch" : 0.285433225
+  },
+  "7 x 72 R" : {
+    "name" : "7 x 72 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 92.0,
+      "coal_inch" : 3.6220491999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page26.pdf" ],
+    "diameter_mm" : 7.25,
+    "diameter_inch" : 0.285433225
+  },
+  "7 x 75 R Super Express Vom Hofe" : {
+    "name" : "7 x 75 R Super Express Vom Hofe",
+    "names" : [ "7 x 75 R SE.v. H." ],
+    "specs" : {
+      "coal_mm" : 97.0,
+      "coal_inch" : 3.8188997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page27.pdf" ],
+    "diameter_mm" : 7.24,
+    "diameter_inch" : 0.285039524
+  },
+  "7-30 Waters" : {
+    "name" : "7-30 Waters",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 64.77,
+      "coal_inch" : 2.5500013769999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page20.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7-47 Giani Special" : {
+    "name" : "7-47 Giani Special",
+    "names" : [ "7-47 GS" ],
+    "specs" : {
+      "coal_mm" : 71.0,
+      "coal_inch" : 2.7952771
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/7-47-gs-en.pdf" ],
+    "diameter_mm" : 7.06,
+    "diameter_inch" : 0.27795290599999994
+  },
+  "7.21 Firebird" : {
+    "name" : "7.21 Firebird",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 92.2,
+      "coal_inch" : 3.62992322
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page44.pdf" ],
+    "diameter_mm" : 7.24,
+    "diameter_inch" : 0.285039524
+  },
+  "7.5 x 54 Manufacture d'armes de Saint-Étienne" : {
+    "name" : "7.5 x 54 Manufacture d'armes de Saint-Étienne",
+    "names" : [ "7.5 x 54 MAS" ],
+    "specs" : {
+      "coal_mm" : 76.0,
+      "coal_inch" : 2.9921276
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/7-5-x-54-mas-en.pdf" ],
+    "diameter_mm" : 7.84,
+    "diameter_inch" : 0.308661584
+  },
+  "7.5 x 55 Suisse" : {
+    "name" : "7.5 x 55 Suisse",
+    "names" : [ "7,5 x 55 Swiss" ],
+    "specs" : {
+      "coal_mm" : 77.7,
+      "coal_inch" : 3.0590567699999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/7-5-x-55-suisse-en.pdf" ],
+    "diameter_mm" : 7.78,
+    "diameter_inch" : 0.306299378
+  },
+  "7.62 Uekötter Katzmeier Magnum" : {
+    "name" : "7.62 Uekötter Katzmeier Magnum",
+    "names" : [ "7.62 UKM" ],
+    "specs" : {
+      "coal_mm" : 79.0,
+      "coal_inch" : 3.1102379
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page49.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "7.62 x 39" : {
+    "name" : "7.62 x 39",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 56.0,
+      "coal_inch" : 2.2047255999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/7-62-x-39-en.pdf" ],
+    "diameter_mm" : 7.92,
+    "diameter_inch" : 0.31181119199999996
+  },
+  "7.62 x 45" : {
+    "name" : "7.62 x 45",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 60.0,
+      "coal_inch" : 2.362206
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page48.pdf" ],
+    "diameter_mm" : 7.83,
+    "diameter_inch" : 0.30826788299999996
+  },
+  "7.62 x 53 R" : {
+    "name" : "7.62 x 53 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 77.0,
+      "coal_inch" : 3.0314977
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page28.pdf" ],
+    "diameter_mm" : 7.85,
+    "diameter_inch" : 0.30905528499999996
+  },
+  "7.62 x 54 R" : {
+    "name" : "7.62 x 54 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 77.16,
+      "coal_inch" : 3.0377969159999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/7-62-x-54-r-en.pdf" ],
+    "diameter_mm" : 7.92,
+    "diameter_inch" : 0.31181119199999996
+  },
+  "7.65 x 53 Argentine" : {
+    "name" : "7.65 x 53 Argentine",
+    "names" : [ "7.65 x 53 Arg." ],
+    "specs" : {
+      "coal_mm" : 76.0,
+      "coal_inch" : 2.9921276
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page50.pdf" ],
+    "diameter_mm" : 7.94,
+    "diameter_inch" : 0.312598594
+  },
+  "7.82 Warbird" : {
+    "name" : "7.82 Warbird",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 92.2,
+      "coal_inch" : 3.62992322
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page51.pdf" ],
+    "diameter_mm" : 7.84,
+    "diameter_inch" : 0.308661584
+  },
+  "7.92 x 24 Van Bruaene Rik" : {
+    "name" : "7.92 x 24 Van Bruaene Rik",
+    "names" : [ "7.92 x 24 VBR" ],
+    "specs" : {
+      "coal_mm" : 32.1,
+      "coal_inch" : 1.26378021
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page52.pdf" ],
+    "diameter_mm" : 7.92,
+    "diameter_inch" : 0.31181119199999996
+  },
+  "7.92 x 33 kurz" : {
+    "name" : "7.92 x 33 kurz",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 48.0,
+      "coal_inch" : 1.8897648
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/7-92-x-33-kurz-en.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "700 Holland & Holland Nitro Express" : {
+    "name" : "700 Holland & Holland Nitro Express",
+    "names" : [ "700 H&H Nitro Exp." ],
+    "specs" : {
+      "coal_mm" : 106.68,
+      "coal_inch" : 4.200002268
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page131.pdf" ],
+    "diameter_mm" : 17.78,
+    "diameter_inch" : 0.700000378
+  },
+  "7mm - 08 Remington" : {
+    "name" : "7mm - 08 Remington",
+    "names" : [ "7 mm - 08 Rem." ],
+    "specs" : {
+      "coal_mm" : 71.12,
+      "coal_inch" : 2.800001512
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page35.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7mm Bench Rest Remington" : {
+    "name" : "7mm Bench Rest Remington",
+    "names" : [ "7 mm B.R. Rem." ],
+    "specs" : {
+      "coal_mm" : 54.42,
+      "coal_inch" : 2.142520842
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page37.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7mm Blaser Magnum" : {
+    "name" : "7mm Blaser Magnum",
+    "names" : [ "7 mm Blaser Mag." ],
+    "specs" : {
+      "coal_mm" : 80.0,
+      "coal_inch" : 3.1496079999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page36.pdf" ],
+    "diameter_mm" : 7.22,
+    "diameter_inch" : 0.284252122
+  },
+  "7mm Express Remington" : {
+    "name" : "7mm Express Remington",
+    "names" : [ "7 mm Exp. Rem." ],
+    "specs" : {
+      "coal_mm" : 84.58,
+      "coal_inch" : 3.329923058
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page38.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7mm KM" : {
+    "name" : "7mm KM",
+    "names" : [ "7 mm KM" ],
+    "specs" : {
+      "coal_mm" : 93.5,
+      "coal_inch" : 3.68110435
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/7-mm-km-en.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7mm Magnum Flanged Holland & Holland" : {
+    "name" : "7mm Magnum Flanged Holland & Holland",
+    "names" : [ "7 mm Mag.Fl. H&H" ],
+    "specs" : {
+      "coal_mm" : 82.8,
+      "coal_inch" : 3.25984428
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page23.pdf" ],
+    "diameter_mm" : 7.21,
+    "diameter_inch" : 0.28385842099999997
+  },
+  "7mm Remington Magnum" : {
+    "name" : "7mm Remington Magnum",
+    "names" : [ "7 mm Rem. Mag." ],
+    "specs" : {
+      "coal_mm" : 83.57,
+      "coal_inch" : 3.2901592569999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page3.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7mm Remington Short Action Ultra Magnum" : {
+    "name" : "7mm Remington Short Action Ultra Magnum",
+    "names" : [ "7 mm Rem. SA Ultra Mag." ],
+    "specs" : {
+      "coal_mm" : 71.76,
+      "coal_inch" : 2.825198376
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page40.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7mm Remington Ultra Magnum" : {
+    "name" : "7mm Remington Ultra Magnum",
+    "names" : [ "7 mm Rem. Ultra Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page41.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7mm Rosè" : {
+    "name" : "7mm Rosè",
+    "names" : [ "7 mm Rosè" ],
+    "specs" : {
+      "coal_mm" : 83.57,
+      "coal_inch" : 3.2901592569999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/7-mm-rose-170223-en.pdf" ],
+    "diameter_mm" : 7.22,
+    "diameter_inch" : 0.284252122
+  },
+  "7mm Shooting Times Westerner" : {
+    "name" : "7mm Shooting Times Westerner",
+    "names" : [ "7 mm STW" ],
+    "specs" : {
+      "coal_mm" : 92.71,
+      "coal_inch" : 3.6500019709999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page4.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "7mm Super Express Vom Hofe" : {
+    "name" : "7mm Super Express Vom Hofe",
+    "names" : [ "7 mm SE v.H." ],
+    "specs" : {
+      "coal_mm" : 84.0,
+      "coal_inch" : 3.3070884
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page42.pdf" ],
+    "diameter_mm" : 7.24,
+    "diameter_inch" : 0.285039524
+  },
+  "7mm Weatherby Magnum" : {
+    "name" : "7mm Weatherby Magnum",
+    "names" : [ "7 mm Weath. Mag." ],
+    "specs" : {
+      "coal_mm" : 85.34,
+      "coal_inch" : 3.359844334
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page5.pdf" ],
+    "diameter_mm" : 7.22,
+    "diameter_inch" : 0.284252122
+  },
+  "7mm Winchester Short Magnum" : {
+    "name" : "7mm Winchester Short Magnum",
+    "names" : [ "7 mm Win. Short Mag." ],
+    "specs" : {
+      "coal_mm" : 72.64,
+      "coal_inch" : 2.859844064
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/7-mm-win-short-mag-en.pdf" ],
+    "diameter_mm" : 7.23,
+    "diameter_inch" : 0.284645823
+  },
+  "8 x 50 R" : {
+    "name" : "8 x 50 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 76.0,
+      "coal_inch" : 2.9921276
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page30.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8 x 51 (Mauser K)" : {
+    "name" : "8 x 51 (Mauser K)",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 68.0,
+      "coal_inch" : 2.6771667999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page54.pdf" ],
+    "diameter_mm" : 8.07,
+    "diameter_inch" : 0.317716707
+  },
+  "8 x 51 R Lebel" : {
+    "name" : "8 x 51 R Lebel",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/8-x-51-r-lebel.pdf" ]
+  },
+  "8 x 56 Mannlicher–Schönauer" : {
+    "name" : "8 x 56 Mannlicher–Schönauer",
+    "names" : [ "8 x 56 M.-Sch." ],
+    "specs" : {
+      "coal_mm" : 77.8,
+      "coal_inch" : 3.0629937799999998
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page55.pdf" ],
+    "diameter_mm" : 8.25,
+    "diameter_inch" : 0.324803325
+  },
+  "8 x 56 R M30S" : {
+    "name" : "8 x 56 R M30S",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 76.5,
+      "coal_inch" : 3.01181265
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page31.pdf" ],
+    "diameter_mm" : 8.4,
+    "diameter_inch" : 0.33070884
+  },
+  "8 x 56 R M89 Portuguese Kropatschek" : {
+    "name" : "8 x 56 R M89 Portuguese Kropatschek",
+    "names" : [ "8 x 56 R M89 Port. Krop." ],
+    "specs" : {
+      "coal_mm" : 81.0,
+      "coal_inch" : 3.1889781
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page32.pdf" ],
+    "diameter_mm" : 8.2,
+    "diameter_inch" : 0.32283481999999997
+  },
+  "8 x 57 I" : {
+    "name" : "8 x 57 I",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page56.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 57 IR" : {
+    "name" : "8 x 57 IR",
+    "names" : [ "8 x 57 JR" ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/8-x-57-ir-en.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 57 IRS" : {
+    "name" : "8 x 57 IRS",
+    "names" : [ "8 x 57 JRS" ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/8-x-57-irs-en.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8 x 57 IS" : {
+    "name" : "8 x 57 IS",
+    "names" : [ "8 x 57 JS" ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/8-x-57-is-en.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8 x 57 PCC" : {
+    "name" : "8 x 57 PCC",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page58.pdf" ],
+    "diameter_mm" : 8.2,
+    "diameter_inch" : 0.32283481999999997
+  },
+  "8 x 57 R 360" : {
+    "name" : "8 x 57 R 360",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 77.0,
+      "coal_inch" : 3.0314977
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page33.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 58 R" : {
+    "name" : "8 x 58 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 78.0,
+      "coal_inch" : 3.0708678
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page36.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 60" : {
+    "name" : "8 x 60",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/8-x-60-en.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 60 R" : {
+    "name" : "8 x 60 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page37.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 60 RS" : {
+    "name" : "8 x 60 RS",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 83.6,
+      "coal_inch" : 3.2913403599999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page38.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8 x 60 S" : {
+    "name" : "8 x 60 S",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page60.pdf" ]
+  },
+  "8 x 64" : {
+    "name" : "8 x 64",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 86.0,
+      "coal_inch" : 3.3858286
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page61.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 64 S" : {
+    "name" : "8 x 64 S",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.5,
+      "coal_inch" : 3.44488375
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page62.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8 x 65 R" : {
+    "name" : "8 x 65 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 86.0,
+      "coal_inch" : 3.3858286
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page39.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 65 RS" : {
+    "name" : "8 x 65 RS",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.5,
+      "coal_inch" : 3.44488375
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page40.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8 x 68 S" : {
+    "name" : "8 x 68 S",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.0,
+      "coal_inch" : 3.4251986999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page63.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8 x 72 R" : {
+    "name" : "8 x 72 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 98.0,
+      "coal_inch" : 3.8582698
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page41.pdf" ],
+    "diameter_mm" : 8.09,
+    "diameter_inch" : 0.318504109
+  },
+  "8 x 75 RS" : {
+    "name" : "8 x 75 RS",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 96.0,
+      "coal_inch" : 3.7795296
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page42.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8 x 75 S" : {
+    "name" : "8 x 75 S",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 96.0,
+      "coal_inch" : 3.7795296
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page64.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8.15 x 46 R" : {
+    "name" : "8.15 x 46 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 62.3,
+      "coal_inch" : 2.4527572299999996
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page44.pdf" ],
+    "diameter_mm" : 8.38,
+    "diameter_inch" : 0.329921438
+  },
+  "8.2 x 53 R" : {
+    "name" : "8.2 x 53 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 76.0,
+      "coal_inch" : 2.9921276
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page45.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8.5 x 63" : {
+    "name" : "8.5 x 63",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.0,
+      "coal_inch" : 3.3070884
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page65.pdf" ],
+    "diameter_mm" : 8.61,
+    "diameter_inch" : 0.33897656099999995
+  },
+  "8.5 x 63 R" : {
+    "name" : "8.5 x 63 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 84.0,
+      "coal_inch" : 3.3070884
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page46.pdf" ],
+    "diameter_mm" : 8.59,
+    "diameter_inch" : 0.33818915899999996
+  },
+  "8.5 x 68 Fanzoj" : {
+    "name" : "8.5 x 68 Fanzoj",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 87.0,
+      "coal_inch" : 3.4251986999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/8-5-x-68-fanzoj-en.pdf" ],
+    "diameter_mm" : 8.59,
+    "diameter_inch" : 0.33818915899999996
+  },
+  "8.5 x 75 R Scheiring" : {
+    "name" : "8.5 x 75 R Scheiring",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 96.0,
+      "coal_inch" : 3.7795296
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/8-5-x-75-r-scheiring-en.pdf" ],
+    "diameter_mm" : 8.61,
+    "diameter_inch" : 0.33897656099999995
+  },
+  "8.5mm Messner Magnum" : {
+    "name" : "8.5mm Messner Magnum",
+    "names" : [ "8.5 mm Messner Mag." ],
+    "specs" : {
+      "coal_mm" : 88.0,
+      "coal_inch" : 3.4645688
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/8-5-mm-messner-mag-en.pdf" ],
+    "diameter_mm" : 8.59,
+    "diameter_inch" : 0.33818915899999996
+  },
+  "8mm Remington Magnum" : {
+    "name" : "8mm Remington Magnum",
+    "names" : [ "8 mm Rem.Mag." ],
+    "specs" : {
+      "coal_mm" : 91.44,
+      "coal_inch" : 3.6000019439999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iii/tabiiical-en-page6.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "8mm – 348 Winchester" : {
+    "name" : "8mm – 348 Winchester",
+    "names" : [ "8 mm – 348 Win." ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page43.pdf" ],
+    "diameter_mm" : 8.22,
+    "diameter_inch" : 0.323622222
+  },
+  "9 x 53 R" : {
+    "name" : "9 x 53 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 67.0,
+      "coal_inch" : 2.6377967
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page47.pdf" ],
+    "diameter_mm" : 9.27,
+    "diameter_inch" : 0.364960827
+  },
+  "9 x 56 Mannlicher–Schönauer" : {
+    "name" : "9 x 56 Mannlicher–Schönauer",
+    "names" : [ "9 x 56 M.-Sch." ],
+    "specs" : {
+      "coal_mm" : 81.0,
+      "coal_inch" : 3.1889781
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page66.pdf" ],
+    "diameter_mm" : 9.08,
+    "diameter_inch" : 0.357480508
+  },
+  "9 x 57" : {
+    "name" : "9 x 57",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 81.0,
+      "coal_inch" : 3.1889781
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page67.pdf" ],
+    "diameter_mm" : 9.08,
+    "diameter_inch" : 0.357480508
+  },
+  "9 x 57 R" : {
+    "name" : "9 x 57 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 81.0,
+      "coal_inch" : 3.1889781
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page48.pdf" ],
+    "diameter_mm" : 9.08,
+    "diameter_inch" : 0.357480508
+  },
+  "9.3 Roedale Short Magnum" : {
+    "name" : "9.3 Roedale Short Magnum",
+    "names" : [ "9.3 RSM" ],
+    "specs" : {
+      "coal_mm" : 75.0,
+      "coal_inch" : 2.9527574999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/9-3-rsm-en.pdf" ],
+    "diameter_mm" : 9.3,
+    "diameter_inch" : 0.36614193
+  },
+  "9.3 x 53 R Finnish" : {
+    "name" : "9.3 x 53 R Finnish",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 76.0,
+      "coal_inch" : 2.9921276
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page49.pdf" ],
+    "diameter_mm" : 9.3,
+    "diameter_inch" : 0.36614193
+  },
+  "9.3 x 57" : {
+    "name" : "9.3 x 57",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 82.0,
+      "coal_inch" : 3.2283481999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/9-3-x-57-en.pdf" ],
+    "diameter_mm" : 9.3,
+    "diameter_inch" : 0.36614193
+  },
+  "9.3 x 62" : {
+    "name" : "9.3 x 62",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 83.6,
+      "coal_inch" : 3.2913403599999995
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page69.pdf" ],
+    "diameter_mm" : 9.3,
+    "diameter_inch" : 0.36614193
+  },
+  "9.3 x 64 Brenneke" : {
+    "name" : "9.3 x 64 Brenneke",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 85.6,
+      "coal_inch" : 3.3700805599999994
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page70.pdf" ],
+    "diameter_mm" : 9.3,
+    "diameter_inch" : 0.36614193
+  },
+  "9.3 x 66 Sako" : {
+    "name" : "9.3 x 66 Sako",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 85.0,
+      "coal_inch" : 3.3464585
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page71.pdf" ],
+    "diameter_mm" : 9.3,
+    "diameter_inch" : 0.36614193
+  },
+  "9.3 x 72 R" : {
+    "name" : "9.3 x 72 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 86.0,
+      "coal_inch" : 3.3858286
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/tabiical-en-page50.pdf" ],
+    "diameter_mm" : 9.57,
+    "diameter_inch" : 0.376771857
+  },
+  "9.3 x 74 R" : {
+    "name" : "9.3 x 74 R",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : 96.5,
+      "coal_inch" : 3.7992146499999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-ii/9-3-x-74-r-en.pdf" ],
+    "diameter_mm" : 9.3,
+    "diameter_inch" : 0.36614193
+  },
+  "9.5 x 57 Mannlicher–Schönauer" : {
+    "name" : "9.5 x 57 Mannlicher–Schönauer",
+    "names" : [ "9.5 x 57 M.-Sch." ],
+    "specs" : {
+      "coal_mm" : 75.0,
+      "coal_inch" : 2.9527574999999997
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page72.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  },
+  "9.5 x 66 Super Express Vom Hofe" : {
+    "name" : "9.5 x 66 Super Express Vom Hofe",
+    "names" : [ "9.5 x 66 SE v. H." ],
+    "specs" : {
+      "coal_mm" : 85.0,
+      "coal_inch" : 3.3464585
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-i/tabical-en-page73.pdf" ],
+    "diameter_mm" : 9.55,
+    "diameter_inch" : 0.375984455
+  }
 }

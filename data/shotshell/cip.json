@@ -1,56 +1,380 @@
 {
-    "4/82": {},
-    "4/101": {},
-    "8/82": {},
-    "8/100": {},
-    "10/76": {},
-    "10/82": {},
-    "10/89": {},
-    "12/35 T": {},
-    "12/50 SAPL": {},
-    "12/60": {},
-    "12/65": {},
-    "12/67": {},
-    "12/70": {},
-    "12/73": {},
-    "12/76": {},
-    "12/89": {},
-    "14/65": {},
-    "14/67": {},
-    "14/70": {},
-    "16/65": {},
-    "16/67": {},
-    "16/70": {},
-    "16/76": {},
-    "20/65": {},
-    "20/67": {},
-    "20/70": {},
-    "20/76": {},
-    "20/89": {},
-    "24/63.50": {},
-    "24/65": {},
-    "24/70": {},
-    "28/58.50": {},
-    "28/63.50": {},
-    "28/65": {},
-    "28/70": {},
-    "28/76": {},
-    "32/50.70": {},
-    "32/60": {},
-    "32/63.5": {},
-    "32/65": {},
-    "32/70": {},
-    "32/65 RUS": {},
-    "32/70 RUS": {},
-    "410/50.70": {},
-    "410/63.50": {},
-    "410/65": {},
-    "410/70": {},
-    "410/73": {},
-    "410/76": {},
-    "6 mm Centrale FALCO": {},
-    "8 mm C.F.": {},
-    "8/47.5 mm C.F.": {},
-    "9 mm C.F.": {},
-    "9 mm C.F. Mori": {}
+  "10/76" : {
+    "name" : "10/76",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page3.pdf" ]
+  },
+  "10/82" : {
+    "name" : "10/82",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page3.pdf" ]
+  },
+  "10/89" : {
+    "name" : "10/89",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page3.pdf" ]
+  },
+  "12/35 T" : {
+    "name" : "12/35 T",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "12/50 SAPL" : {
+    "name" : "12/50 SAPL",
+    "names" : [ "12/50 Short ActionPL" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "12/60" : {
+    "name" : "12/60",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "12/65" : {
+    "name" : "12/65",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "12/67" : {
+    "name" : "12/67",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "12/70" : {
+    "name" : "12/70",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "12/73" : {
+    "name" : "12/73",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "12/76" : {
+    "name" : "12/76",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "12/89" : {
+    "name" : "12/89",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page4.pdf" ]
+  },
+  "14/65" : {
+    "name" : "14/65",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page5.pdf" ]
+  },
+  "14/67" : {
+    "name" : "14/67",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page5.pdf" ]
+  },
+  "14/70" : {
+    "name" : "14/70",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page5.pdf" ]
+  },
+  "16/65" : {
+    "name" : "16/65",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page6.pdf" ]
+  },
+  "16/67" : {
+    "name" : "16/67",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page6.pdf" ]
+  },
+  "16/70" : {
+    "name" : "16/70",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page6.pdf" ]
+  },
+  "16/76" : {
+    "name" : "16/76",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page6.pdf" ]
+  },
+  "20/65" : {
+    "name" : "20/65",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page7.pdf" ]
+  },
+  "20/67" : {
+    "name" : "20/67",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page7.pdf" ]
+  },
+  "20/70" : {
+    "name" : "20/70",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page7.pdf" ]
+  },
+  "20/76" : {
+    "name" : "20/76",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page7.pdf" ]
+  },
+  "20/89" : {
+    "name" : "20/89",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page7.pdf" ]
+  },
+  "24/63.50" : {
+    "name" : "24/63.50",
+    "names" : [ "24/63.5" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page8.pdf" ]
+  },
+  "24/65" : {
+    "name" : "24/65",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page8.pdf" ]
+  },
+  "24/70" : {
+    "name" : "24/70",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page8.pdf" ]
+  },
+  "28/58.50" : {
+    "name" : "28/58.50",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabvii-28-170717-en.pdf" ]
+  },
+  "28/63.50" : {
+    "name" : "28/63.50",
+    "names" : [ "28/63.5" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page9.pdf" ]
+  },
+  "28/65" : {
+    "name" : "28/65",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabvii-28-170717-en.doc.pdf" ]
+  },
+  "28/70" : {
+    "name" : "28/70",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page9.pdf" ]
+  },
+  "28/76" : {
+    "name" : "28/76",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page9.pdf" ]
+  },
+  "32/50.70" : {
+    "name" : "32/50.70",
+    "names" : [ "32/50.7" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page10.pdf" ]
+  },
+  "32/60" : {
+    "name" : "32/60",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page10.pdf" ]
+  },
+  "32/63.5" : {
+    "name" : "32/63.5",
+    "names" : [ "32/63.50" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page10.pdf" ]
+  },
+  "32/65" : {
+    "name" : "32/65",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page10.pdf" ]
+  },
+  "32/65 RUS" : {
+    "name" : "32/65 RUS",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page11.pdf" ]
+  },
+  "32/70" : {
+    "name" : "32/70",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page10.pdf" ]
+  },
+  "32/70 RUS" : {
+    "name" : "32/70 RUS",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page11.pdf" ]
+  },
+  "4/101" : {
+    "name" : "4/101",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page1.pdf" ]
+  },
+  "4/82" : {
+    "name" : "4/82",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page1.pdf" ]
+  },
+  "410/50.70" : {
+    "name" : "410/50.70",
+    "names" : [ "36", "410/50.7" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/410-en-1.pdf" ]
+  },
+  "410/63.50" : {
+    "name" : "410/63.50",
+    "names" : [ "36", "410/63.5" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/410-en-2.pdf" ]
+  },
+  "410/65" : {
+    "name" : "410/65",
+    "names" : [ "36" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/410-en-3.pdf" ]
+  },
+  "410/70" : {
+    "name" : "410/70",
+    "names" : [ "36" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/410-en-4.pdf" ]
+  },
+  "410/73" : {
+    "name" : "410/73",
+    "names" : [ "36" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/410-en-5.pdf" ]
+  },
+  "410/76" : {
+    "name" : "410/76",
+    "names" : [ "36" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/410-en-6.pdf" ]
+  },
+  "6 mm Centrale FALCO" : {
+    "name" : "6 mm Centrale FALCO",
+    "names" : [ "6mm Centrale FALCO" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/6-mm-centrale-falco-en.pdf" ]
+  },
+  "8 mm C.F." : {
+    "name" : "8 mm C.F.",
+    "names" : [ "8mm C.F." ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page13.pdf" ]
+  },
+  "8/100" : {
+    "name" : "8/100",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page2.pdf" ]
+  },
+  "8/47.5 mm C.F." : {
+    "name" : "8/47.5 mm C.F.",
+    "names" : [ "8/47.5mm C.F." ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page14.pdf" ]
+  },
+  "8/82" : {
+    "name" : "8/82",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page2.pdf" ]
+  },
+  "9 mm C.F." : {
+    "name" : "9 mm C.F.",
+    "names" : [ "9mm C.F." ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page15.pdf" ]
+  },
+  "9 mm C.F. Mori" : {
+    "name" : "9 mm C.F. Mori",
+    "names" : [ "9mm C.F. Mori" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page16.pdf" ]
+  }
 }
