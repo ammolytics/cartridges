@@ -1,96 +1,917 @@
 {
-    "5.45 x 18": {},
-    "5.75 Velodog": {},
-    "6.35 Browning": {},
-    "7 x 49 Guido J. Wasser": {},
-    "7 Penna": {},
-    "7mm Penna L": {},
-    "7.5 FK": {},
-    "7.5 Ordonnance Suisse": {},
-    "7.62 x 25 Tokarev": {},
-    "7.62 Nagant": {},
-    "7.63 Mauser": {},
-    "7.65 Browning": {},
-    "7.65 Long": {},
-    "7.65 Parabellum": {},
-    "8mm Gasser": {},
-    "8mm Lebel": {},
-    "8mm Steyr": {},
-    "9 x 18": {},
-    "9 x 20 VGW": {},
-    "9 x 21": {},
-    "9 x 22 Major": {},
-    "9 x 25 Super Automatic G": {},
-    "9mm Makarov": {},
-    "9mm Browning court": {},
-    "9mm Browning long": {},
-    "9mm Fast Accurate Reliable": {},
-    "9mm FX & CQT": {},
-    "9mm Luger": {},
-    "9mm Mauser": {},
-    "9mm Steyr": {},
-    "10 x 22 T": {},
-    "10mm Automatic": {},
-    "10mm Fast Accurate Reliable": {},
-    "10.4 Ordinanza Italiana": {},
-    "11mm 73": {},
-    "22 PICRA": {},
-    "22 Remington Jet Magnum": {},
-    "221 Remington Fireball": {},
-    "260 PICRA": {},
-    "30 PICRA": {},
-    "30-357 Armi e Tiro": {},
-    "32 Harrington & Richardson Magnum": {},
-    "32 Long Colt": {},
-    "32 Short Colt": {},
-    "32 Smith & Wesson": {},
-    "32 Smith & Wesson Long": {},
-    "32 Smith & Wesson Long Wad Cutter": {},
-    "320 Long": {},
-    "320 Short": {},
-    "357 Automatic Magnum": {},
-    "357 Magnum": {},
-    "357 Magnum (carb)": {},
-    "357 Maximum": {},
-    "357 SIG": {},
-    "38 Long Colt": {},
-    "38 Short Colt": {},
-    "38 Smith & Wesson. Colt New Police": {},
-    "38 Special": {},
-    "38 Special (carb)": {},
-    "38 Special Army Marksmanship Unit": {},
-    "38 Special Wad Cutter": {},
-    "38 Super Automatic": {},
-    "38/357 FX": {},
-    "38-45 Automatic Colt Pistol": {},
-    "380 Long": {},
-    "380 Short": {},
-    "40 Smith & Wesson": {},
-    "41 Action Express": {},
-    "41 Long Colt": {},
-    "41 Remington Magnum": {},
-    "44 Colt": {},
-    "44 Remington Magnum": {},
-    "44 Remington Magnum (carb)": {},
-    "44 Smith & Wesson Russian": {},
-    "44 Smith & Wesson Special": {},
-    "44 Smith & Wesson Special (carb)": {},
-    "45 Automatic": {},
-    "45 Automatic Rim": {},
-    "45 Colt": {},
-    "45 Colt (carb)": {},
-    "45 Glock Auto Pistol": {},
-    "45 HP": {},
-    "45 Smith & Wesson Schofield": {},
-    "45 Smith & Wesson Schofield (carb)": {},
-    "45 Winchester Magnum": {},
-    "450 SCH": {},
-    "450 Short": {},
-    "454 Casull": {},
-    "455 MK II": {},
-    "460 Smith & Wesson Magnum": {},
-    "475 Linebaugh": {},
-    "480 Ruger": {},
-    "50 Action Express": {},
-    "500 Smith & Wesson Magnum": {}
+  "10 x 22 T" : {
+    "name" : "10 x 22 T",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "22.7"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page30.pdf" ],
+    "diameter_mm" : "10.0"
+  },
+  "10.4 Ordinanza Italiana" : {
+    "name" : "10.4 Ordinanza Italiana",
+    "names" : [ "10.4 Ord. It." ],
+    "specs" : {
+      "coal_mm" : "30.2"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page33.pdf" ],
+    "diameter_mm" : "11.1"
+  },
+  "10mm Automatic" : {
+    "name" : "10mm Automatic",
+    "names" : [ "10 mm Auto" ],
+    "specs" : {
+      "coal_mm" : "32.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/10-mm-auto-en.pdf" ],
+    "diameter_mm" : "10.17"
+  },
+  "10mm Fast Accurate Reliable" : {
+    "name" : "10mm Fast Accurate Reliable",
+    "names" : [ "10 mm FAR" ],
+    "specs" : {
+      "coal_mm" : "32.2"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page32.pdf" ],
+    "diameter_mm" : "10.17"
+  },
+  "11mm 73" : {
+    "name" : "11mm 73",
+    "names" : [ "11 mm 73" ],
+    "specs" : {
+      "coal_mm" : "29.65"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/11-mm-73-en.pdf" ],
+    "diameter_mm" : "11.6"
+  },
+  "22 PICRA" : {
+    "name" : "22 PICRA",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "48.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page35.pdf" ],
+    "diameter_mm" : "5.7"
+  },
+  "22 Remington Jet Magnum" : {
+    "name" : "22 Remington Jet Magnum",
+    "names" : [ "22 Rem.Jet Mag." ],
+    "specs" : {
+      "coal_mm" : "42.14"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page36.pdf" ],
+    "diameter_mm" : "5.65"
+  },
+  "221 Remington Fireball" : {
+    "name" : "221 Remington Fireball",
+    "names" : [ "221 Rem. Fireball" ],
+    "specs" : {
+      "coal_mm" : "46.48"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page37.pdf" ],
+    "diameter_mm" : "5.7"
+  },
+  "260 PICRA" : {
+    "name" : "260 PICRA",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "62.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page38.pdf" ],
+    "diameter_mm" : "6.71"
+  },
+  "30 PICRA" : {
+    "name" : "30 PICRA",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "56.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page39.pdf" ],
+    "diameter_mm" : "7.82"
+  },
+  "30-357 Armi e Tiro" : {
+    "name" : "30-357 Armi e Tiro",
+    "names" : [ "30-357 AeT" ],
+    "specs" : {
+      "coal_mm" : "47.8"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page40.pdf" ],
+    "diameter_mm" : "7.85"
+  },
+  "32 Harrington & Richardson Magnum" : {
+    "name" : "32 Harrington & Richardson Magnum",
+    "names" : [ "32 H&R Mag." ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page41.pdf" ]
+  },
+  "32 Long Colt" : {
+    "name" : "32 Long Colt",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "30.89"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page42.pdf" ],
+    "diameter_mm" : "7.97"
+  },
+  "32 Short Colt" : {
+    "name" : "32 Short Colt",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "25.78"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page43.pdf" ],
+    "diameter_mm" : "7.98"
+  },
+  "32 Smith & Wesson" : {
+    "name" : "32 Smith & Wesson",
+    "names" : [ "32 S&W" ],
+    "specs" : {
+      "coal_mm" : "23.62"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page44.pdf" ],
+    "diameter_mm" : "8.0"
+  },
+  "32 Smith & Wesson Long" : {
+    "name" : "32 Smith & Wesson Long",
+    "names" : [ "32 Colt New Police", "32 S&W Long" ],
+    "specs" : {
+      "coal_mm" : "32.51"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/32s-w-long-190829-en.pdf" ],
+    "diameter_mm" : "8.0"
+  },
+  "32 Smith & Wesson Long Wad Cutter" : {
+    "name" : "32 Smith & Wesson Long Wad Cutter",
+    "names" : [ "32 S&W Long Wad Cut." ],
+    "specs" : {
+      "coal_mm" : "25.4"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page46.pdf" ],
+    "diameter_mm" : "8.0"
+  },
+  "320 Long" : {
+    "name" : "320 Long",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "30.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page47.pdf" ],
+    "diameter_mm" : "7.7"
+  },
+  "320 Short" : {
+    "name" : "320 Short",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "26.7"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page48.pdf" ],
+    "diameter_mm" : "8.0"
+  },
+  "357 Automatic Magnum" : {
+    "name" : "357 Automatic Magnum",
+    "names" : [ "357 Auto Mag." ],
+    "specs" : {
+      "coal_mm" : "40.65"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page49.pdf" ],
+    "diameter_mm" : "9.12"
+  },
+  "357 Magnum" : {
+    "name" : "357 Magnum",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "40.39"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/357-magnum-en.pdf" ],
+    "diameter_mm" : "9.12"
+  },
+  "357 Magnum (carb)" : {
+    "name" : "357 Magnum (carb)",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/357-magnum-carb-en.pdf" ],
+    "diameter_mm" : "9.65"
+  },
+  "357 Maximum" : {
+    "name" : "357 Maximum",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "50.55"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page52.pdf" ],
+    "diameter_mm" : "9.12"
+  },
+  "357 SIG" : {
+    "name" : "357 SIG",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "28.96"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page53.pdf" ],
+    "diameter_mm" : "9.03"
+  },
+  "38 Long Colt" : {
+    "name" : "38 Long Colt",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "34.54"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page54.pdf" ],
+    "diameter_mm" : "9.12"
+  },
+  "38 Short Colt" : {
+    "name" : "38 Short Colt",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "30.48"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page55.pdf" ],
+    "diameter_mm" : "9.12"
+  },
+  "38 Smith & Wesson. Colt New Police" : {
+    "name" : "38 Smith & Wesson. Colt New Police",
+    "names" : [ "38 S&W. Colt N.P." ],
+    "specs" : {
+      "coal_mm" : "31.5"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page56.pdf" ],
+    "diameter_mm" : "9.17"
+  },
+  "38 Special" : {
+    "name" : "38 Special",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "39.37"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page57.pdf" ],
+    "diameter_mm" : "9.12"
+  },
+  "38 Special (carb)" : {
+    "name" : "38 Special (carb)",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page58.pdf" ],
+    "diameter_mm" : "9.65"
+  },
+  "38 Special Army Marksmanship Unit" : {
+    "name" : "38 Special Army Marksmanship Unit",
+    "names" : [ "38 Spl. AMU" ],
+    "specs" : {
+      "coal_mm" : "30.23"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page59.pdf" ],
+    "diameter_mm" : "9.11"
+  },
+  "38 Special Wad Cutter" : {
+    "name" : "38 Special Wad Cutter",
+    "names" : [ "38 Spl. Wad Cut." ],
+    "specs" : {
+      "coal_mm" : "30.35"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page60.pdf" ],
+    "diameter_mm" : "9.14"
+  },
+  "38 Super Automatic" : {
+    "name" : "38 Super Automatic",
+    "names" : [ "38 Super Auto" ],
+    "specs" : {
+      "coal_mm" : "32.51"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page61.pdf" ],
+    "diameter_mm" : "9.04"
+  },
+  "38-45 Automatic Colt Pistol" : {
+    "name" : "38-45 Automatic Colt Pistol",
+    "names" : [ "38-45 ACP" ],
+    "specs" : {
+      "coal_mm" : "31.7"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page63.pdf" ],
+    "diameter_mm" : "9.12"
+  },
+  "38/357 FX" : {
+    "name" : "38/357 FX",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "30.99"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page62.pdf" ],
+    "diameter_mm" : "8.94"
+  },
+  "380 Long" : {
+    "name" : "380 Long",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "35.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page64.pdf" ],
+    "diameter_mm" : "9.15"
+  },
+  "380 Short" : {
+    "name" : "380 Short",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "28.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page65.pdf" ],
+    "diameter_mm" : "9.15"
+  },
+  "40 Smith & Wesson" : {
+    "name" : "40 Smith & Wesson",
+    "names" : [ "40 S&W" ],
+    "specs" : {
+      "coal_mm" : "28.83"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page66.pdf" ],
+    "diameter_mm" : "10.17"
+  },
+  "41 Action Express" : {
+    "name" : "41 Action Express",
+    "names" : [ "41 ACT EXP" ],
+    "specs" : {
+      "coal_mm" : "29.25"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page67.pdf" ],
+    "diameter_mm" : "10.41"
+  },
+  "41 Long Colt" : {
+    "name" : "41 Long Colt",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "36.19"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page68.pdf" ],
+    "diameter_mm" : "9.86"
+  },
+  "41 Remington Magnum" : {
+    "name" : "41 Remington Magnum",
+    "names" : [ "41 Rem. Mag." ],
+    "specs" : {
+      "coal_mm" : "40.39"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page69.pdf" ],
+    "diameter_mm" : "10.41"
+  },
+  "44 Colt" : {
+    "name" : "44 Colt",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "38.1"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page70.pdf" ],
+    "diameter_mm" : "11.25"
+  },
+  "44 Remington Magnum" : {
+    "name" : "44 Remington Magnum",
+    "names" : [ "44 Rem. Mag." ],
+    "specs" : {
+      "coal_mm" : "40.89"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page71.pdf" ],
+    "diameter_mm" : "10.97"
+  },
+  "44 Remington Magnum (carb)" : {
+    "name" : "44 Remington Magnum (carb)",
+    "names" : [ "44 Rem. Mag. (carb)" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page72.pdf" ],
+    "diameter_mm" : "11.63"
+  },
+  "44 Smith & Wesson Russian" : {
+    "name" : "44 Smith & Wesson Russian",
+    "names" : [ "44 S&W Russian" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page73.pdf" ]
+  },
+  "44 Smith & Wesson Special" : {
+    "name" : "44 Smith & Wesson Special",
+    "names" : [ "44 S&W Special" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page74.pdf" ]
+  },
+  "44 Smith & Wesson Special (carb)" : {
+    "name" : "44 Smith & Wesson Special (carb)",
+    "names" : [ "44 S&W Special (carb)" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page75.pdf" ]
+  },
+  "45 Automatic" : {
+    "name" : "45 Automatic",
+    "names" : [ "45 Auto" ],
+    "specs" : {
+      "coal_mm" : "32.39"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page76.pdf" ],
+    "diameter_mm" : "11.48"
+  },
+  "45 Automatic Rim" : {
+    "name" : "45 Automatic Rim",
+    "names" : [ "45 Auto Rim" ],
+    "specs" : {
+      "coal_mm" : "32.39"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page77.pdf" ],
+    "diameter_mm" : "11.48"
+  },
+  "45 Colt" : {
+    "name" : "45 Colt",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "40.64"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page78.pdf" ],
+    "diameter_mm" : "11.58"
+  },
+  "45 Colt (carb)" : {
+    "name" : "45 Colt (carb)",
+    "names" : [ ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page79.pdf" ],
+    "diameter_mm" : "12.19"
+  },
+  "45 Glock Auto Pistol" : {
+    "name" : "45 Glock Auto Pistol",
+    "names" : [ "45 GAP" ],
+    "specs" : {
+      "coal_mm" : "28.89"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/45-gap-en.pdf" ],
+    "diameter_mm" : "11.48"
+  },
+  "45 HP" : {
+    "name" : "45 HP",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "31.4"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page81.pdf" ],
+    "diameter_mm" : "11.48"
+  },
+  "45 Smith & Wesson Schofield" : {
+    "name" : "45 Smith & Wesson Schofield",
+    "names" : [ "45 S&W Schofield" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page82.pdf" ]
+  },
+  "45 Smith & Wesson Schofield (carb)" : {
+    "name" : "45 Smith & Wesson Schofield (carb)",
+    "names" : [ "45 S&W Schofield (carb)" ],
+    "specs" : { },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page83.pdf" ],
+    "diameter_mm" : "12.19"
+  },
+  "45 Winchester Magnum" : {
+    "name" : "45 Winchester Magnum",
+    "names" : [ "45 Win. Mag." ],
+    "specs" : {
+      "coal_mm" : "40.01"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page84.pdf" ],
+    "diameter_mm" : "11.48"
+  },
+  "450 SCH" : {
+    "name" : "450 SCH",
+    "names" : [ "450 Schuster" ],
+    "specs" : {
+      "coal_mm" : "32.39"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/450-sch-en.pdf" ],
+    "diameter_mm" : "11.48"
+  },
+  "450 Short" : {
+    "name" : "450 Short",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "28.5"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page85.pdf" ],
+    "diameter_mm" : "11.58"
+  },
+  "454 Casull" : {
+    "name" : "454 Casull",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "44.83"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/454-casull-en.pdf" ],
+    "diameter_mm" : "11.49"
+  },
+  "455 MK II" : {
+    "name" : "455 MK II",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "32.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page87.pdf" ],
+    "diameter_mm" : "11.57"
+  },
+  "460 Smith & Wesson Magnum" : {
+    "name" : "460 Smith & Wesson Magnum",
+    "names" : [ "460 S&W Mag." ],
+    "specs" : {
+      "coal_mm" : "58.12"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page88.pdf" ],
+    "diameter_mm" : "11.49"
+  },
+  "475 Linebaugh" : {
+    "name" : "475 Linebaugh",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "44.43"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page89.pdf" ],
+    "diameter_mm" : "12.08"
+  },
+  "480 Ruger" : {
+    "name" : "480 Ruger",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "41.91"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/480-ruger-en.pdf" ],
+    "diameter_mm" : "12.08"
+  },
+  "5.45 x 18" : {
+    "name" : "5.45 x 18",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "25.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page2.pdf" ],
+    "diameter_mm" : "5.63"
+  },
+  "5.75 Velodog" : {
+    "name" : "5.75 Velodog",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "35.6"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page3.pdf" ],
+    "diameter_mm" : "5.79"
+  },
+  "50 Action Express" : {
+    "name" : "50 Action Express",
+    "names" : [ "50 AE" ],
+    "specs" : {
+      "coal_mm" : "40.5"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page91.pdf" ],
+    "diameter_mm" : "12.71"
+  },
+  "500 Smith & Wesson Magnum" : {
+    "name" : "500 Smith & Wesson Magnum",
+    "names" : [ "500 S&W Mag." ],
+    "specs" : {
+      "coal_mm" : "58.42"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/500-s-w-mag-en.pdf" ],
+    "diameter_mm" : "12.7"
+  },
+  "6.35 Browning" : {
+    "name" : "6.35 Browning",
+    "names" : [ "25 Auto(matic)", "25 ACP" ],
+    "specs" : {
+      "coal_mm" : "23.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page4.pdf" ],
+    "diameter_mm" : "6.38"
+  },
+  "7 Penna" : {
+    "name" : "7 Penna",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "34.5"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page6.pdf" ],
+    "diameter_mm" : "7.04"
+  },
+  "7 x 49 Guido J. Wasser" : {
+    "name" : "7 x 49 Guido J. Wasser",
+    "names" : [ "7 x 49 GJW" ],
+    "specs" : {
+      "coal_mm" : "73.5"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page5.pdf" ],
+    "diameter_mm" : "7.25"
+  },
+  "7.5 FK" : {
+    "name" : "7.5 FK",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "35.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/7-5-fk-en.pdf" ],
+    "diameter_mm" : "7.8"
+  },
+  "7.5 Ordonnance Suisse" : {
+    "name" : "7.5 Ordonnance Suisse",
+    "names" : [ "7.5 Ord. Suisse" ],
+    "specs" : {
+      "coal_mm" : "34.6"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page8.pdf" ],
+    "diameter_mm" : "8.0"
+  },
+  "7.62 Nagant" : {
+    "name" : "7.62 Nagant",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "37.3"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page10.pdf" ],
+    "diameter_mm" : "7.82"
+  },
+  "7.62 x 25 Tokarev" : {
+    "name" : "7.62 x 25 Tokarev",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "35.2"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page9.pdf" ],
+    "diameter_mm" : "7.9"
+  },
+  "7.63 Mauser" : {
+    "name" : "7.63 Mauser",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "35.08"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/7-63-mauser-en.pdf" ],
+    "diameter_mm" : "7.86"
+  },
+  "7.65 Browning" : {
+    "name" : "7.65 Browning",
+    "names" : [ "32 Auto(matic)", "32 ACP" ],
+    "specs" : {
+      "coal_mm" : "25.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page12.pdf" ],
+    "diameter_mm" : "7.85"
+  },
+  "7.65 Long" : {
+    "name" : "7.65 Long",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "30.5"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page13.pdf" ],
+    "diameter_mm" : "7.88"
+  },
+  "7.65 Parabellum" : {
+    "name" : "7.65 Parabellum",
+    "names" : [ "7,65 Para", "7,65 Luger", "30 Luger" ],
+    "specs" : {
+      "coal_mm" : "29.85"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page14.pdf" ],
+    "diameter_mm" : "7.85"
+  },
+  "7mm Penna L" : {
+    "name" : "7mm Penna L",
+    "names" : [ "7 mm Penna L" ],
+    "specs" : {
+      "coal_mm" : "41.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page7.pdf" ],
+    "diameter_mm" : "7.04"
+  },
+  "8mm Gasser" : {
+    "name" : "8mm Gasser",
+    "names" : [ "8 mm Gasser" ],
+    "specs" : {
+      "coal_mm" : "36.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page15.pdf" ],
+    "diameter_mm" : "8.11"
+  },
+  "8mm Lebel" : {
+    "name" : "8mm Lebel",
+    "names" : [ "8 mm Lebel" ],
+    "specs" : {
+      "coal_mm" : "37.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page16.pdf" ],
+    "diameter_mm" : "8.28"
+  },
+  "8mm Steyr" : {
+    "name" : "8mm Steyr",
+    "names" : [ "8 mm Steyr" ],
+    "specs" : {
+      "coal_mm" : "28.7"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page17.pdf" ],
+    "diameter_mm" : "8.15"
+  },
+  "9 x 18" : {
+    "name" : "9 x 18",
+    "names" : [ "9 x 18 Ultra", "9mm Police" ],
+    "specs" : {
+      "coal_mm" : "25.5"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page18.pdf" ],
+    "diameter_mm" : "9.02"
+  },
+  "9 x 20 VGW" : {
+    "name" : "9 x 20 VGW",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "30.69"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page19.pdf" ],
+    "diameter_mm" : "9.03"
+  },
+  "9 x 21" : {
+    "name" : "9 x 21",
+    "names" : [ ],
+    "specs" : {
+      "coal_mm" : "29.75"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page20.pdf" ],
+    "diameter_mm" : "9.03"
+  },
+  "9 x 22 Major" : {
+    "name" : "9 x 22 Major",
+    "names" : [ "9 x 22 MJR" ],
+    "specs" : {
+      "coal_mm" : "29.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page21.pdf" ],
+    "diameter_mm" : "9.03"
+  },
+  "9 x 25 Super Automatic G" : {
+    "name" : "9 x 25 Super Automatic G",
+    "names" : [ "9 x 25 Super Auto G" ],
+    "specs" : {
+      "coal_mm" : "32.7"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/9-x-25-super-auto-g-en.pdf" ],
+    "diameter_mm" : "9.03"
+  },
+  "9mm Browning court" : {
+    "name" : "9mm Browning court",
+    "names" : [ "9mm Browning Kurz (short", "corto)", "9 mm kurz", "380 ACP", "380 Auto(matic)", "9 mm Browning court" ],
+    "specs" : {
+      "coal_mm" : "25.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page24.pdf" ],
+    "diameter_mm" : "9.04"
+  },
+  "9mm Browning long" : {
+    "name" : "9mm Browning long",
+    "names" : [ "9 mm Browning long" ],
+    "specs" : {
+      "coal_mm" : "28.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page25.pdf" ],
+    "diameter_mm" : "9.09"
+  },
+  "9mm FX & CQT" : {
+    "name" : "9mm FX & CQT",
+    "names" : [ "9 mm FX & CQT" ],
+    "specs" : {
+      "coal_mm" : "29.03"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page27.pdf" ],
+    "diameter_mm" : "7.72"
+  },
+  "9mm Fast Accurate Reliable" : {
+    "name" : "9mm Fast Accurate Reliable",
+    "names" : [ "9 mm FAR" ],
+    "specs" : {
+      "coal_mm" : "32.6"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page26.pdf" ],
+    "diameter_mm" : "9.03"
+  },
+  "9mm Luger" : {
+    "name" : "9mm Luger",
+    "names" : [ "9 mm Para(bellum)", "9 x 19 (mm)", "9 mm Luger" ],
+    "specs" : {
+      "coal_mm" : "29.69"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page28.pdf" ],
+    "diameter_mm" : "9.03"
+  },
+  "9mm Makarov" : {
+    "name" : "9mm Makarov",
+    "names" : [ "9 mm Makarov" ],
+    "specs" : {
+      "coal_mm" : "25.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page23.pdf" ],
+    "diameter_mm" : "9.27"
+  },
+  "9mm Mauser" : {
+    "name" : "9mm Mauser",
+    "names" : [ "9 mm Mauser" ],
+    "specs" : {
+      "coal_mm" : "35.0"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/9-mm-mauser-en.pdf" ],
+    "diameter_mm" : "9.03"
+  },
+  "9mm Steyr" : {
+    "name" : "9mm Steyr",
+    "names" : [ "9 mm Steyr" ],
+    "specs" : {
+      "coal_mm" : "33.1"
+    },
+    "standard" : "CIP",
+    "references" : [ "https://bobp.cip-bobp.org/uploads/tdcc/tab-iv/tabivcal-en-page29.pdf" ],
+    "diameter_mm" : "9.03"
+  }
 }
