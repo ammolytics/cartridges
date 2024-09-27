@@ -1,1 +1,3 @@
 node_modules
+scraper/saami/dev.env
+scraper/saami/__pycache__
